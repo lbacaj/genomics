@@ -1,0 +1,3087 @@
+{
+  "TFE3_ISM_regulatory": {
+    "description": "7bp immune regulatory element (DNase 3.0+)",
+    "chrom": "X",
+    "positions": [
+      49043887,
+      49043888,
+      49043889,
+      49043890,
+      49043891,
+      49043892,
+      49043893
+    ],
+    "gnomad_variants": [
+      {
+        "variant_id": "X-49043884-C-T",
+        "pos": 49043884,
+        "ref": "C",
+        "alt": "T",
+        "exome": null,
+        "genome": {
+          "ac": 7,
+          "an": 113054,
+          "af": 6.191731385001858e-05
+        },
+        "rsids": [
+          "rs1435649482"
+        ],
+        "consequence": null,
+        "flags": []
+      },
+      {
+        "variant_id": "X-49043884-C-G",
+        "pos": 49043884,
+        "ref": "C",
+        "alt": "G",
+        "exome": null,
+        "genome": {
+          "ac": 1,
+          "an": 113054,
+          "af": 8.845330550002654e-06
+        },
+        "rsids": [
+          "rs1435649482"
+        ],
+        "consequence": null,
+        "flags": []
+      },
+      {
+        "variant_id": "X-49043891-C-T",
+        "pos": 49043891,
+        "ref": "C",
+        "alt": "T",
+        "exome": null,
+        "genome": {
+          "ac": 1,
+          "an": 112955,
+          "af": 8.853083086184764e-06
+        },
+        "rsids": [
+          "rs1325270712"
+        ],
+        "consequence": null,
+        "flags": []
+      }
+    ],
+    "clinvar_variants": [],
+    "gnomad_exact_hits": [
+      {
+        "variant_id": "X-49043891-C-T",
+        "pos": 49043891,
+        "ref": "C",
+        "alt": "T",
+        "exome": null,
+        "genome": {
+          "ac": 1,
+          "an": 112955,
+          "af": 8.853083086184764e-06
+        },
+        "rsids": [
+          "rs1325270712"
+        ],
+        "consequence": null,
+        "flags": []
+      }
+    ],
+    "gnomad_nearby": [
+      {
+        "variant_id": "X-49043884-C-T",
+        "pos": 49043884,
+        "ref": "C",
+        "alt": "T",
+        "exome": null,
+        "genome": {
+          "ac": 7,
+          "an": 113054,
+          "af": 6.191731385001858e-05
+        },
+        "rsids": [
+          "rs1435649482"
+        ],
+        "consequence": null,
+        "flags": []
+      },
+      {
+        "variant_id": "X-49043884-C-G",
+        "pos": 49043884,
+        "ref": "C",
+        "alt": "G",
+        "exome": null,
+        "genome": {
+          "ac": 1,
+          "an": 113054,
+          "af": 8.845330550002654e-06
+        },
+        "rsids": [
+          "rs1435649482"
+        ],
+        "consequence": null,
+        "flags": []
+      }
+    ]
+  },
+  "DNMT1_chr19_ISM_switch": {
+    "description": "T-cell/NK cell chromatin switch (0.436 DNase)",
+    "chrom": "19",
+    "positions": [
+      10160175
+    ],
+    "gnomad_variants": [
+      {
+        "variant_id": "19-10160167-G-A",
+        "pos": 10160167,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1439044,
+          "af": 6.949057846737139e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160168-G-A",
+        "pos": 10160168,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1437314,
+          "af": 6.957421969033906e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160168-G-T",
+        "pos": 10160168,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1437314,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160169-C-T",
+        "pos": 10160169,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1437626,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160169-C-G",
+        "pos": 10160169,
+        "ref": "C",
+        "alt": "G",
+        "exome": {
+          "ac": 2,
+          "an": 1437626,
+          "af": 1.3911824076637455e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160172-C-T",
+        "pos": 10160172,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 13,
+          "an": 1432448,
+          "af": 9.075373067643642e-06
+        },
+        "genome": {
+          "ac": 3,
+          "an": 152214,
+          "af": 1.9709093775868185e-05
+        },
+        "rsids": [
+          "rs1363460842"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160172-C-A",
+        "pos": 10160172,
+        "ref": "C",
+        "alt": "A",
+        "exome": {
+          "ac": 0,
+          "an": 1432446,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160172-C-G",
+        "pos": 10160172,
+        "ref": "C",
+        "alt": "G",
+        "exome": {
+          "ac": 1,
+          "an": 1432448,
+          "af": 6.981056205879725e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160173-G-T",
+        "pos": 10160173,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1430104,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160173-G-A",
+        "pos": 10160173,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 31,
+          "an": 1430104,
+          "af": 2.1676745187762568e-05
+        },
+        "genome": {
+          "ac": 1,
+          "an": 152238,
+          "af": 6.5686622262510016e-06
+        },
+        "rsids": [
+          "rs1371301755"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160174-G-A",
+        "pos": 10160174,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 5,
+          "an": 1430322,
+          "af": 3.495716349185708e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160175-C-T",
+        "pos": 10160175,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1431406,
+          "af": 6.986138104772511e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160176-T-C",
+        "pos": 10160176,
+        "ref": "T",
+        "alt": "C",
+        "exome": {
+          "ac": 6,
+          "an": 1430608,
+          "af": 4.194021003657187e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160178-T-C",
+        "pos": 10160178,
+        "ref": "T",
+        "alt": "C",
+        "exome": {
+          "ac": 3,
+          "an": 1428022,
+          "af": 2.100807970745549e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160179-G-A",
+        "pos": 10160179,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1425372,
+          "af": 7.015712389467452e-07
+        },
+        "genome": null,
+        "rsids": [
+          "rs1038901160"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160180-G-T",
+        "pos": 10160180,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1424644,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160181-C-G",
+        "pos": 10160181,
+        "ref": "C",
+        "alt": "G",
+        "exome": {
+          "ac": 82,
+          "an": 1420184,
+          "af": 5.773899720036277e-05
+        },
+        "genome": {
+          "ac": 11,
+          "an": 152250,
+          "af": 7.224958949096881e-05
+        },
+        "rsids": [
+          "rs1043133188"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160181-C-A",
+        "pos": 10160181,
+        "ref": "C",
+        "alt": "A",
+        "exome": {
+          "ac": 0,
+          "an": 1420184,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160181-C-CA",
+        "pos": 10160181,
+        "ref": "C",
+        "alt": "CA",
+        "exome": {
+          "ac": 16,
+          "an": 1420184,
+          "af": 1.1266145795192735e-05
+        },
+        "genome": {
+          "ac": 3,
+          "an": 152250,
+          "af": 1.9704433497536946e-05
+        },
+        "rsids": [
+          "rs1410666774"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160181-C-T",
+        "pos": 10160181,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1420184,
+          "af": 7.04134112199546e-07
+        },
+        "genome": {
+          "ac": 1,
+          "an": 152250,
+          "af": 6.568144499178982e-06
+        },
+        "rsids": [
+          "rs1043133188"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160182-AGT-A",
+        "pos": 10160182,
+        "ref": "AGT",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1421154,
+          "af": 7.036535097533413e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160183-G-A",
+        "pos": 10160183,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 2,
+          "an": 1420522,
+          "af": 1.4079331400710443e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160185-G-T",
+        "pos": 10160185,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 16,
+          "an": 1419300,
+          "af": 1.1273162826745578e-05
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      }
+    ],
+    "clinvar_variants": [],
+    "gnomad_exact_hits": [
+      {
+        "variant_id": "19-10160175-C-T",
+        "pos": 10160175,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1431406,
+          "af": 6.986138104772511e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      }
+    ],
+    "gnomad_nearby": [
+      {
+        "variant_id": "19-10160167-G-A",
+        "pos": 10160167,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1439044,
+          "af": 6.949057846737139e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160168-G-A",
+        "pos": 10160168,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1437314,
+          "af": 6.957421969033906e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160168-G-T",
+        "pos": 10160168,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1437314,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160169-C-T",
+        "pos": 10160169,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1437626,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160169-C-G",
+        "pos": 10160169,
+        "ref": "C",
+        "alt": "G",
+        "exome": {
+          "ac": 2,
+          "an": 1437626,
+          "af": 1.3911824076637455e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160172-C-T",
+        "pos": 10160172,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 13,
+          "an": 1432448,
+          "af": 9.075373067643642e-06
+        },
+        "genome": {
+          "ac": 3,
+          "an": 152214,
+          "af": 1.9709093775868185e-05
+        },
+        "rsids": [
+          "rs1363460842"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160172-C-A",
+        "pos": 10160172,
+        "ref": "C",
+        "alt": "A",
+        "exome": {
+          "ac": 0,
+          "an": 1432446,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160172-C-G",
+        "pos": 10160172,
+        "ref": "C",
+        "alt": "G",
+        "exome": {
+          "ac": 1,
+          "an": 1432448,
+          "af": 6.981056205879725e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160173-G-T",
+        "pos": 10160173,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1430104,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160173-G-A",
+        "pos": 10160173,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 31,
+          "an": 1430104,
+          "af": 2.1676745187762568e-05
+        },
+        "genome": {
+          "ac": 1,
+          "an": 152238,
+          "af": 6.5686622262510016e-06
+        },
+        "rsids": [
+          "rs1371301755"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160174-G-A",
+        "pos": 10160174,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 5,
+          "an": 1430322,
+          "af": 3.495716349185708e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160176-T-C",
+        "pos": 10160176,
+        "ref": "T",
+        "alt": "C",
+        "exome": {
+          "ac": 6,
+          "an": 1430608,
+          "af": 4.194021003657187e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160178-T-C",
+        "pos": 10160178,
+        "ref": "T",
+        "alt": "C",
+        "exome": {
+          "ac": 3,
+          "an": 1428022,
+          "af": 2.100807970745549e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160179-G-A",
+        "pos": 10160179,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1425372,
+          "af": 7.015712389467452e-07
+        },
+        "genome": null,
+        "rsids": [
+          "rs1038901160"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160180-G-T",
+        "pos": 10160180,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1424644,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160181-C-G",
+        "pos": 10160181,
+        "ref": "C",
+        "alt": "G",
+        "exome": {
+          "ac": 82,
+          "an": 1420184,
+          "af": 5.773899720036277e-05
+        },
+        "genome": {
+          "ac": 11,
+          "an": 152250,
+          "af": 7.224958949096881e-05
+        },
+        "rsids": [
+          "rs1043133188"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160181-C-A",
+        "pos": 10160181,
+        "ref": "C",
+        "alt": "A",
+        "exome": {
+          "ac": 0,
+          "an": 1420184,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160181-C-CA",
+        "pos": 10160181,
+        "ref": "C",
+        "alt": "CA",
+        "exome": {
+          "ac": 16,
+          "an": 1420184,
+          "af": 1.1266145795192735e-05
+        },
+        "genome": {
+          "ac": 3,
+          "an": 152250,
+          "af": 1.9704433497536946e-05
+        },
+        "rsids": [
+          "rs1410666774"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160181-C-T",
+        "pos": 10160181,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1420184,
+          "af": 7.04134112199546e-07
+        },
+        "genome": {
+          "ac": 1,
+          "an": 152250,
+          "af": 6.568144499178982e-06
+        },
+        "rsids": [
+          "rs1043133188"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160182-AGT-A",
+        "pos": 10160182,
+        "ref": "AGT",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1421154,
+          "af": 7.036535097533413e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160183-G-A",
+        "pos": 10160183,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 2,
+          "an": 1420522,
+          "af": 1.4079331400710443e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160185-G-T",
+        "pos": 10160185,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 16,
+          "an": 1419300,
+          "af": 1.1273162826745578e-05
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      }
+    ]
+  },
+  "ASPSCR1_ISM_hotspot": {
+    "description": "Fibroblast regulatory hotspot",
+    "chrom": "17",
+    "positions": [
+      82010867,
+      82010868,
+      82010869,
+      82010870
+    ],
+    "gnomad_variants": [
+      {
+        "variant_id": "17-82010857-C-T",
+        "pos": 82010857,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 6,
+          "an": 1460326,
+          "af": 4.108671625376799e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs747764370"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010858-C-T",
+        "pos": 82010858,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1460248,
+          "af": 6.848151820786606e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "synonymous_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010859-A-C",
+        "pos": 82010859,
+        "ref": "A",
+        "alt": "C",
+        "exome": {
+          "ac": 1,
+          "an": 1460252,
+          "af": 6.848133061964647e-07
+        },
+        "genome": null,
+        "rsids": [
+          "rs949756841"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010859-A-G",
+        "pos": 82010859,
+        "ref": "A",
+        "alt": "G",
+        "exome": {
+          "ac": 8,
+          "an": 1460252,
+          "af": 5.478506449571718e-06
+        },
+        "genome": {
+          "ac": 1,
+          "an": 152230,
+          "af": 6.569007422978388e-06
+        },
+        "rsids": [
+          "rs949756841"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010860-G-A",
+        "pos": 82010860,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 6,
+          "an": 1460186,
+          "af": 4.1090655574015915e-06
+        },
+        "genome": {
+          "ac": 4,
+          "an": 152390,
+          "af": 2.624844149878601e-05
+        },
+        "rsids": [
+          "rs531424612"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010860-G-T",
+        "pos": 82010860,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 2,
+          "an": 1460186,
+          "af": 1.3696885191338638e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010861-C-T",
+        "pos": 82010861,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 42,
+          "an": 1460038,
+          "af": 2.8766374573812463e-05
+        },
+        "genome": {
+          "ac": 3,
+          "an": 152254,
+          "af": 1.9703915824871595e-05
+        },
+        "rsids": [
+          "rs201544231"
+        ],
+        "consequence": "synonymous_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010861-C-A",
+        "pos": 82010861,
+        "ref": "C",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1460038,
+          "af": 6.849136803288681e-07
+        },
+        "genome": {
+          "ac": 1,
+          "an": 152254,
+          "af": 6.567971941623865e-06
+        },
+        "rsids": [
+          "rs201544231"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010862-G-A",
+        "pos": 82010862,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 6,
+          "an": 1460006,
+          "af": 4.109572152443209e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs1287755063"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010862-G-T",
+        "pos": 82010862,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1460006,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "stop_gained",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010862-G-C",
+        "pos": 82010862,
+        "ref": "G",
+        "alt": "C",
+        "exome": {
+          "ac": 2,
+          "an": 1460006,
+          "af": 1.3698573841477363e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs1287755063"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010864-G-A",
+        "pos": 82010864,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1460010,
+          "af": 6.849268155697564e-07
+        },
+        "genome": {
+          "ac": 1,
+          "an": 152274,
+          "af": 6.5671092898328014e-06
+        },
+        "rsids": [
+          "rs760430230"
+        ],
+        "consequence": "synonymous_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010866-C-T",
+        "pos": 82010866,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 2,
+          "an": 1459838,
+          "af": 1.3700150290648687e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010869-G-C",
+        "pos": 82010869,
+        "ref": "G",
+        "alt": "C",
+        "exome": {
+          "ac": 1,
+          "an": 1459654,
+          "af": 6.85093864710404e-07
+        },
+        "genome": null,
+        "rsids": [
+          "rs1437176465"
+        ],
+        "consequence": "splice_donor_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010869-G-T",
+        "pos": 82010869,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1459654,
+          "af": 6.85093864710404e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "splice_donor_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010871-G-T",
+        "pos": 82010871,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1459432,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010872-G-A",
+        "pos": 82010872,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 2,
+          "an": 1459452,
+          "af": 1.3703773745213957e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010873-G-C",
+        "pos": 82010873,
+        "ref": "G",
+        "alt": "C",
+        "exome": {
+          "ac": 2,
+          "an": 1459242,
+          "af": 1.3705745859836819e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010873-G-A",
+        "pos": 82010873,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 13,
+          "an": 1459242,
+          "af": 8.908734808893933e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs766340477"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010873-G-T",
+        "pos": 82010873,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1459242,
+          "af": 6.852872929918409e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010874-C-T",
+        "pos": 82010874,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 5,
+          "an": 1459248,
+          "af": 3.4264223764569148e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs776493319"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010874-C-G",
+        "pos": 82010874,
+        "ref": "C",
+        "alt": "G",
+        "exome": {
+          "ac": 2,
+          "an": 1459248,
+          "af": 1.370568950582766e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs776493319"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010876-G-T",
+        "pos": 82010876,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1458958,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "splice_region_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010877-C-T",
+        "pos": 82010877,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 205,
+          "an": 1458844,
+          "af": 0.00014052222170430833
+        },
+        "genome": {
+          "ac": 11,
+          "an": 152390,
+          "af": 7.218321412166153e-05
+        },
+        "rsids": [
+          "rs759528295"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010877-C-A",
+        "pos": 82010877,
+        "ref": "C",
+        "alt": "A",
+        "exome": {
+          "ac": 3,
+          "an": 1458844,
+          "af": 2.0564227566484146e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010878-G-T",
+        "pos": 82010878,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1458640,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [
+          "rs201439503"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010878-G-A",
+        "pos": 82010878,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 498,
+          "an": 1458640,
+          "af": 0.00034141391981571876
+        },
+        "genome": {
+          "ac": 44,
+          "an": 152272,
+          "af": 0.00028895660397183987
+        },
+        "rsids": [
+          "rs201439503"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010880-T-A",
+        "pos": 82010880,
+        "ref": "T",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1458576,
+          "af": 6.856002018406994e-07
+        },
+        "genome": null,
+        "rsids": [
+          "rs752803131"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      }
+    ],
+    "clinvar_variants": [
+      {
+        "clinvar_id": "4429255",
+        "title": "NM_024083.4(ASPSCR1):c.1237+1G>T",
+        "clinical_significance": "",
+        "gene": "ASPSCR1",
+        "review_status": "",
+        "condition": ""
+      }
+    ],
+    "gnomad_exact_hits": [
+      {
+        "variant_id": "17-82010869-G-C",
+        "pos": 82010869,
+        "ref": "G",
+        "alt": "C",
+        "exome": {
+          "ac": 1,
+          "an": 1459654,
+          "af": 6.85093864710404e-07
+        },
+        "genome": null,
+        "rsids": [
+          "rs1437176465"
+        ],
+        "consequence": "splice_donor_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010869-G-T",
+        "pos": 82010869,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1459654,
+          "af": 6.85093864710404e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "splice_donor_variant",
+        "flags": []
+      }
+    ],
+    "gnomad_nearby": [
+      {
+        "variant_id": "17-82010857-C-T",
+        "pos": 82010857,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 6,
+          "an": 1460326,
+          "af": 4.108671625376799e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs747764370"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010858-C-T",
+        "pos": 82010858,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1460248,
+          "af": 6.848151820786606e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "synonymous_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010859-A-C",
+        "pos": 82010859,
+        "ref": "A",
+        "alt": "C",
+        "exome": {
+          "ac": 1,
+          "an": 1460252,
+          "af": 6.848133061964647e-07
+        },
+        "genome": null,
+        "rsids": [
+          "rs949756841"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010859-A-G",
+        "pos": 82010859,
+        "ref": "A",
+        "alt": "G",
+        "exome": {
+          "ac": 8,
+          "an": 1460252,
+          "af": 5.478506449571718e-06
+        },
+        "genome": {
+          "ac": 1,
+          "an": 152230,
+          "af": 6.569007422978388e-06
+        },
+        "rsids": [
+          "rs949756841"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010860-G-A",
+        "pos": 82010860,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 6,
+          "an": 1460186,
+          "af": 4.1090655574015915e-06
+        },
+        "genome": {
+          "ac": 4,
+          "an": 152390,
+          "af": 2.624844149878601e-05
+        },
+        "rsids": [
+          "rs531424612"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010860-G-T",
+        "pos": 82010860,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 2,
+          "an": 1460186,
+          "af": 1.3696885191338638e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010861-C-T",
+        "pos": 82010861,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 42,
+          "an": 1460038,
+          "af": 2.8766374573812463e-05
+        },
+        "genome": {
+          "ac": 3,
+          "an": 152254,
+          "af": 1.9703915824871595e-05
+        },
+        "rsids": [
+          "rs201544231"
+        ],
+        "consequence": "synonymous_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010861-C-A",
+        "pos": 82010861,
+        "ref": "C",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1460038,
+          "af": 6.849136803288681e-07
+        },
+        "genome": {
+          "ac": 1,
+          "an": 152254,
+          "af": 6.567971941623865e-06
+        },
+        "rsids": [
+          "rs201544231"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010862-G-A",
+        "pos": 82010862,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 6,
+          "an": 1460006,
+          "af": 4.109572152443209e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs1287755063"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010862-G-T",
+        "pos": 82010862,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1460006,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "stop_gained",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010862-G-C",
+        "pos": 82010862,
+        "ref": "G",
+        "alt": "C",
+        "exome": {
+          "ac": 2,
+          "an": 1460006,
+          "af": 1.3698573841477363e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs1287755063"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010864-G-A",
+        "pos": 82010864,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1460010,
+          "af": 6.849268155697564e-07
+        },
+        "genome": {
+          "ac": 1,
+          "an": 152274,
+          "af": 6.5671092898328014e-06
+        },
+        "rsids": [
+          "rs760430230"
+        ],
+        "consequence": "synonymous_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010866-C-T",
+        "pos": 82010866,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 2,
+          "an": 1459838,
+          "af": 1.3700150290648687e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010871-G-T",
+        "pos": 82010871,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1459432,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010872-G-A",
+        "pos": 82010872,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 2,
+          "an": 1459452,
+          "af": 1.3703773745213957e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010873-G-C",
+        "pos": 82010873,
+        "ref": "G",
+        "alt": "C",
+        "exome": {
+          "ac": 2,
+          "an": 1459242,
+          "af": 1.3705745859836819e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010873-G-A",
+        "pos": 82010873,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 13,
+          "an": 1459242,
+          "af": 8.908734808893933e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs766340477"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010873-G-T",
+        "pos": 82010873,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1459242,
+          "af": 6.852872929918409e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010874-C-T",
+        "pos": 82010874,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 5,
+          "an": 1459248,
+          "af": 3.4264223764569148e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs776493319"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010874-C-G",
+        "pos": 82010874,
+        "ref": "C",
+        "alt": "G",
+        "exome": {
+          "ac": 2,
+          "an": 1459248,
+          "af": 1.370568950582766e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs776493319"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010876-G-T",
+        "pos": 82010876,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1458958,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "splice_region_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010877-C-T",
+        "pos": 82010877,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 205,
+          "an": 1458844,
+          "af": 0.00014052222170430833
+        },
+        "genome": {
+          "ac": 11,
+          "an": 152390,
+          "af": 7.218321412166153e-05
+        },
+        "rsids": [
+          "rs759528295"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010877-C-A",
+        "pos": 82010877,
+        "ref": "C",
+        "alt": "A",
+        "exome": {
+          "ac": 3,
+          "an": 1458844,
+          "af": 2.0564227566484146e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010878-G-T",
+        "pos": 82010878,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1458640,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [
+          "rs201439503"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010878-G-A",
+        "pos": 82010878,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 498,
+          "an": 1458640,
+          "af": 0.00034141391981571876
+        },
+        "genome": {
+          "ac": 44,
+          "an": 152272,
+          "af": 0.00028895660397183987
+        },
+        "rsids": [
+          "rs201439503"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010880-T-A",
+        "pos": 82010880,
+        "ref": "T",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1458576,
+          "af": 6.856002018406994e-07
+        },
+        "genome": null,
+        "rsids": [
+          "rs752803131"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      }
+    ]
+  },
+  "ASPSCR1_breakpoint": {
+    "description": "ASPSCR1 breakpoint position",
+    "chrom": "17",
+    "positions": [
+      82010811
+    ],
+    "gnomad_variants": [
+      {
+        "variant_id": "17-82010802-G-A",
+        "pos": 82010802,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 2,
+          "an": 1460856,
+          "af": 1.3690603317506996e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010802-G-T",
+        "pos": 82010802,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1460856,
+          "af": 6.845301658753498e-07
+        },
+        "genome": null,
+        "rsids": [
+          "rs1428164526"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010807-T-C",
+        "pos": 82010807,
+        "ref": "T",
+        "alt": "C",
+        "exome": {
+          "ac": 1,
+          "an": 1460888,
+          "af": 6.845151715942632e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "synonymous_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010810-G-T",
+        "pos": 82010810,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1460908,
+          "af": 6.845058005021535e-07
+        },
+        "genome": null,
+        "rsids": [
+          "rs748796428"
+        ],
+        "consequence": "synonymous_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010812-G-A",
+        "pos": 82010812,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 6,
+          "an": 1460898,
+          "af": 4.107062916096811e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs768392610"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010813-G-A",
+        "pos": 82010813,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 0,
+          "an": 1460892,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [
+          "rs2042911484"
+        ],
+        "consequence": "synonymous_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010814-G-T",
+        "pos": 82010814,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1460882,
+          "af": 6.845179829719307e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010818-T-C",
+        "pos": 82010818,
+        "ref": "T",
+        "alt": "C",
+        "exome": {
+          "ac": 3,
+          "an": 1460918,
+          "af": 2.0535033451569494e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010819-G-C",
+        "pos": 82010819,
+        "ref": "G",
+        "alt": "C",
+        "exome": {
+          "ac": 1,
+          "an": 1460888,
+          "af": 6.845151715942632e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "synonymous_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010821-T-G",
+        "pos": 82010821,
+        "ref": "T",
+        "alt": "G",
+        "exome": {
+          "ac": 2,
+          "an": 1460894,
+          "af": 1.3690247204793777e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs774213125"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      }
+    ],
+    "clinvar_variants": [],
+    "gnomad_exact_hits": [],
+    "gnomad_nearby": [
+      {
+        "variant_id": "17-82010802-G-A",
+        "pos": 82010802,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 2,
+          "an": 1460856,
+          "af": 1.3690603317506996e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010802-G-T",
+        "pos": 82010802,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1460856,
+          "af": 6.845301658753498e-07
+        },
+        "genome": null,
+        "rsids": [
+          "rs1428164526"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010807-T-C",
+        "pos": 82010807,
+        "ref": "T",
+        "alt": "C",
+        "exome": {
+          "ac": 1,
+          "an": 1460888,
+          "af": 6.845151715942632e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "synonymous_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010810-G-T",
+        "pos": 82010810,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1460908,
+          "af": 6.845058005021535e-07
+        },
+        "genome": null,
+        "rsids": [
+          "rs748796428"
+        ],
+        "consequence": "synonymous_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010812-G-A",
+        "pos": 82010812,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 6,
+          "an": 1460898,
+          "af": 4.107062916096811e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs768392610"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010813-G-A",
+        "pos": 82010813,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 0,
+          "an": 1460892,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [
+          "rs2042911484"
+        ],
+        "consequence": "synonymous_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010814-G-T",
+        "pos": 82010814,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1460882,
+          "af": 6.845179829719307e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010818-T-C",
+        "pos": 82010818,
+        "ref": "T",
+        "alt": "C",
+        "exome": {
+          "ac": 3,
+          "an": 1460918,
+          "af": 2.0535033451569494e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "missense_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010819-G-C",
+        "pos": 82010819,
+        "ref": "G",
+        "alt": "C",
+        "exome": {
+          "ac": 1,
+          "an": 1460888,
+          "af": 6.845151715942632e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "synonymous_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "17-82010821-T-G",
+        "pos": 82010821,
+        "ref": "T",
+        "alt": "G",
+        "exome": {
+          "ac": 2,
+          "an": 1460894,
+          "af": 1.3690247204793777e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs774213125"
+        ],
+        "consequence": "missense_variant",
+        "flags": []
+      }
+    ]
+  },
+  "TFE3_breakpoint": {
+    "description": "TFE3 breakpoint position",
+    "chrom": "X",
+    "positions": [
+      49043986
+    ],
+    "gnomad_variants": [
+      {
+        "variant_id": "X-49043986-G-C",
+        "pos": 49043986,
+        "ref": "G",
+        "alt": "C",
+        "exome": null,
+        "genome": {
+          "ac": 91921,
+          "an": 110853,
+          "af": 0.829215267065393
+        },
+        "rsids": [
+          "rs59403483"
+        ],
+        "consequence": null,
+        "flags": []
+      },
+      {
+        "variant_id": "X-49043986-G-T",
+        "pos": 49043986,
+        "ref": "G",
+        "alt": "T",
+        "exome": null,
+        "genome": {
+          "ac": 1,
+          "an": 110823,
+          "af": 9.023397670158721e-06
+        },
+        "rsids": [
+          "rs59403483"
+        ],
+        "consequence": null,
+        "flags": []
+      }
+    ],
+    "clinvar_variants": [],
+    "gnomad_exact_hits": [
+      {
+        "variant_id": "X-49043986-G-C",
+        "pos": 49043986,
+        "ref": "G",
+        "alt": "C",
+        "exome": null,
+        "genome": {
+          "ac": 91921,
+          "an": 110853,
+          "af": 0.829215267065393
+        },
+        "rsids": [
+          "rs59403483"
+        ],
+        "consequence": null,
+        "flags": []
+      },
+      {
+        "variant_id": "X-49043986-G-T",
+        "pos": 49043986,
+        "ref": "G",
+        "alt": "T",
+        "exome": null,
+        "genome": {
+          "ac": 1,
+          "an": 110823,
+          "af": 9.023397670158721e-06
+        },
+        "rsids": [
+          "rs59403483"
+        ],
+        "consequence": null,
+        "flags": []
+      }
+    ],
+    "gnomad_nearby": []
+  },
+  "DNMT1_chr1_breakpoint": {
+    "description": "DNMT1-chr1 breakpoint (inside PUM1)",
+    "chrom": "1",
+    "positions": [
+      31048832
+    ],
+    "gnomad_variants": [
+      {
+        "variant_id": "1-31048831-T-A",
+        "pos": 31048831,
+        "ref": "T",
+        "alt": "A",
+        "exome": null,
+        "genome": {
+          "ac": 1,
+          "an": 152158,
+          "af": 6.572115826969334e-06
+        },
+        "rsids": [
+          "rs1433566947"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      }
+    ],
+    "clinvar_variants": [],
+    "gnomad_exact_hits": [],
+    "gnomad_nearby": [
+      {
+        "variant_id": "1-31048831-T-A",
+        "pos": 31048831,
+        "ref": "T",
+        "alt": "A",
+        "exome": null,
+        "genome": {
+          "ac": 1,
+          "an": 152158,
+          "af": 6.572115826969334e-06
+        },
+        "rsids": [
+          "rs1433566947"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      }
+    ]
+  },
+  "DNMT1_chr19_breakpoint": {
+    "description": "DNMT1-chr19 breakpoint position",
+    "chrom": "19",
+    "positions": [
+      10160241
+    ],
+    "gnomad_variants": [
+      {
+        "variant_id": "19-10160233-G-A",
+        "pos": 10160233,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1353334,
+          "af": 7.38915892159659e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160233-G-T",
+        "pos": 10160233,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1353334,
+          "af": 7.38915892159659e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160234-C-T",
+        "pos": 10160234,
+        "ref": "C",
+        "alt": "T",
+        "exome": null,
+        "genome": {
+          "ac": 1,
+          "an": 152346,
+          "af": 6.56400561878881e-06
+        },
+        "rsids": [
+          "rs556671971"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160235-C-T",
+        "pos": 10160235,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1350304,
+          "af": 7.405739744531602e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160235-C-A",
+        "pos": 10160235,
+        "ref": "C",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1350304,
+          "af": 7.405739744531602e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160237-G-T",
+        "pos": 10160237,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1351770,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160238-A-G",
+        "pos": 10160238,
+        "ref": "A",
+        "alt": "G",
+        "exome": {
+          "ac": 2,
+          "an": 1354834,
+          "af": 1.4761956077275888e-06
+        },
+        "genome": {
+          "ac": 1,
+          "an": 152226,
+          "af": 6.569180034948038e-06
+        },
+        "rsids": [
+          "rs1257053221"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160239-C-T",
+        "pos": 10160239,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 6,
+          "an": 1351182,
+          "af": 4.440556490539395e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs2038540659"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160239-C-A",
+        "pos": 10160239,
+        "ref": "C",
+        "alt": "A",
+        "exome": {
+          "ac": 3,
+          "an": 1351184,
+          "af": 2.220274958850904e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160240-G-A",
+        "pos": 10160240,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 12,
+          "an": 1351082,
+          "af": 8.881770314459077e-06
+        },
+        "genome": {
+          "ac": 3,
+          "an": 152226,
+          "af": 1.9707540104844112e-05
+        },
+        "rsids": [
+          "rs1016430684"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160240-G-T",
+        "pos": 10160240,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1351088,
+          "af": 7.401442393093566e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160241-C-T",
+        "pos": 10160241,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1357328,
+          "af": 7.367415981988142e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160241-C-A",
+        "pos": 10160241,
+        "ref": "C",
+        "alt": "A",
+        "exome": {
+          "ac": 0,
+          "an": 1357328,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160245-T-C",
+        "pos": 10160245,
+        "ref": "T",
+        "alt": "C",
+        "exome": null,
+        "genome": {
+          "ac": 1,
+          "an": 152366,
+          "af": 6.563144008505835e-06
+        },
+        "rsids": [
+          "rs568577833"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160245-T-A",
+        "pos": 10160245,
+        "ref": "T",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1364634,
+          "af": 7.327972188879949e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160246-T-G",
+        "pos": 10160246,
+        "ref": "T",
+        "alt": "G",
+        "exome": {
+          "ac": 2,
+          "an": 1363552,
+          "af": 1.4667574100584357e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160247-G-T",
+        "pos": 10160247,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 26,
+          "an": 1360390,
+          "af": 1.9112166364057366e-05
+        },
+        "genome": {
+          "ac": 2,
+          "an": 152206,
+          "af": 1.3140086461768918e-05
+        },
+        "rsids": [
+          "rs898838273"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160248-G-T",
+        "pos": 10160248,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1367090,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160248-G-C",
+        "pos": 10160248,
+        "ref": "G",
+        "alt": "C",
+        "exome": {
+          "ac": 1,
+          "an": 1367096,
+          "af": 7.314775260844886e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160250-C-T",
+        "pos": 10160250,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 2,
+          "an": 1368918,
+          "af": 1.4610078909036187e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs2038540860"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160251-C-G",
+        "pos": 10160251,
+        "ref": "C",
+        "alt": "G",
+        "exome": {
+          "ac": 2,
+          "an": 1372050,
+          "af": 1.4576728253343538e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs1315132054"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      }
+    ],
+    "clinvar_variants": [],
+    "gnomad_exact_hits": [
+      {
+        "variant_id": "19-10160241-C-T",
+        "pos": 10160241,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1357328,
+          "af": 7.367415981988142e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160241-C-A",
+        "pos": 10160241,
+        "ref": "C",
+        "alt": "A",
+        "exome": {
+          "ac": 0,
+          "an": 1357328,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      }
+    ],
+    "gnomad_nearby": [
+      {
+        "variant_id": "19-10160233-G-A",
+        "pos": 10160233,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1353334,
+          "af": 7.38915892159659e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160233-G-T",
+        "pos": 10160233,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1353334,
+          "af": 7.38915892159659e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160234-C-T",
+        "pos": 10160234,
+        "ref": "C",
+        "alt": "T",
+        "exome": null,
+        "genome": {
+          "ac": 1,
+          "an": 152346,
+          "af": 6.56400561878881e-06
+        },
+        "rsids": [
+          "rs556671971"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160235-C-T",
+        "pos": 10160235,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1350304,
+          "af": 7.405739744531602e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160235-C-A",
+        "pos": 10160235,
+        "ref": "C",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1350304,
+          "af": 7.405739744531602e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160237-G-T",
+        "pos": 10160237,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1351770,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160238-A-G",
+        "pos": 10160238,
+        "ref": "A",
+        "alt": "G",
+        "exome": {
+          "ac": 2,
+          "an": 1354834,
+          "af": 1.4761956077275888e-06
+        },
+        "genome": {
+          "ac": 1,
+          "an": 152226,
+          "af": 6.569180034948038e-06
+        },
+        "rsids": [
+          "rs1257053221"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160239-C-T",
+        "pos": 10160239,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 6,
+          "an": 1351182,
+          "af": 4.440556490539395e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs2038540659"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160239-C-A",
+        "pos": 10160239,
+        "ref": "C",
+        "alt": "A",
+        "exome": {
+          "ac": 3,
+          "an": 1351184,
+          "af": 2.220274958850904e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160240-G-A",
+        "pos": 10160240,
+        "ref": "G",
+        "alt": "A",
+        "exome": {
+          "ac": 12,
+          "an": 1351082,
+          "af": 8.881770314459077e-06
+        },
+        "genome": {
+          "ac": 3,
+          "an": 152226,
+          "af": 1.9707540104844112e-05
+        },
+        "rsids": [
+          "rs1016430684"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160240-G-T",
+        "pos": 10160240,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 1,
+          "an": 1351088,
+          "af": 7.401442393093566e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160245-T-C",
+        "pos": 10160245,
+        "ref": "T",
+        "alt": "C",
+        "exome": null,
+        "genome": {
+          "ac": 1,
+          "an": 152366,
+          "af": 6.563144008505835e-06
+        },
+        "rsids": [
+          "rs568577833"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160245-T-A",
+        "pos": 10160245,
+        "ref": "T",
+        "alt": "A",
+        "exome": {
+          "ac": 1,
+          "an": 1364634,
+          "af": 7.327972188879949e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160246-T-G",
+        "pos": 10160246,
+        "ref": "T",
+        "alt": "G",
+        "exome": {
+          "ac": 2,
+          "an": 1363552,
+          "af": 1.4667574100584357e-06
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160247-G-T",
+        "pos": 10160247,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 26,
+          "an": 1360390,
+          "af": 1.9112166364057366e-05
+        },
+        "genome": {
+          "ac": 2,
+          "an": 152206,
+          "af": 1.3140086461768918e-05
+        },
+        "rsids": [
+          "rs898838273"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160248-G-T",
+        "pos": 10160248,
+        "ref": "G",
+        "alt": "T",
+        "exome": {
+          "ac": 0,
+          "an": 1367090,
+          "af": 0
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160248-G-C",
+        "pos": 10160248,
+        "ref": "G",
+        "alt": "C",
+        "exome": {
+          "ac": 1,
+          "an": 1367096,
+          "af": 7.314775260844886e-07
+        },
+        "genome": null,
+        "rsids": [],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160250-C-T",
+        "pos": 10160250,
+        "ref": "C",
+        "alt": "T",
+        "exome": {
+          "ac": 2,
+          "an": 1368918,
+          "af": 1.4610078909036187e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs2038540860"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      },
+      {
+        "variant_id": "19-10160251-C-G",
+        "pos": 10160251,
+        "ref": "C",
+        "alt": "G",
+        "exome": {
+          "ac": 2,
+          "an": 1372050,
+          "af": 1.4576728253343538e-06
+        },
+        "genome": null,
+        "rsids": [
+          "rs1315132054"
+        ],
+        "consequence": "intron_variant",
+        "flags": []
+      }
+    ]
+  },
+  "conservation": {
+    "TFE3_ISM_regulatory": {
+      "total_variants_1kb": 467,
+      "density_per_bp": 0.467,
+      "common_variants": 1,
+      "rare_variants": 187
+    },
+    "DNMT1_chr19_ISM_switch": {
+      "total_variants_1kb": 716,
+      "density_per_bp": 0.716,
+      "common_variants": 4,
+      "rare_variants": 212
+    },
+    "ASPSCR1_ISM_hotspot": {
+      "total_variants_1kb": 826,
+      "density_per_bp": 0.826,
+      "common_variants": 8,
+      "rare_variants": 403
+    },
+    "ASPSCR1_breakpoint": {
+      "total_variants_1kb": 0,
+      "density_per_bp": 0.0,
+      "common_variants": 0,
+      "rare_variants": 0
+    },
+    "TFE3_breakpoint": {
+      "total_variants_1kb": 0,
+      "density_per_bp": 0.0,
+      "common_variants": 0,
+      "rare_variants": 0
+    },
+    "DNMT1_chr1_breakpoint": {
+      "total_variants_1kb": 0,
+      "density_per_bp": 0.0,
+      "common_variants": 0,
+      "rare_variants": 0
+    },
+    "DNMT1_chr19_breakpoint": {
+      "total_variants_1kb": 0,
+      "density_per_bp": 0.0,
+      "common_variants": 0,
+      "rare_variants": 0
+    }
+  }
+}

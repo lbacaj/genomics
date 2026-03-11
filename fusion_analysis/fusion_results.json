@@ -1,0 +1,540 @@
+{
+  "fusion_construction": {
+    "aspscr1_side": {
+      "chromosome": "chr17",
+      "start": 81748667,
+      "end": 82010811,
+      "strand": "+",
+      "length": 262144
+    },
+    "tfe3_side": {
+      "chromosome": "chrX",
+      "start": 48781842,
+      "end": 49043986,
+      "strand": "- (reverse complemented)",
+      "length": 262144
+    },
+    "total_length": 524288,
+    "junction_position": 262144,
+    "junction_sequence_20bp": "GTGGCTCTGA|CTGCCTCATA"
+  },
+  "fusion": {
+    "rna_seq_at_junction": [
+      {
+        "tissue": "brain",
+        "strand": "+",
+        "junction_mean": 0.09632472693920135,
+        "junction_max": 4.09375
+      },
+      {
+        "tissue": "transverse colon",
+        "strand": "+",
+        "junction_mean": 0.1002618819475174,
+        "junction_max": 1.3515625
+      },
+      {
+        "tissue": "lung",
+        "strand": "+",
+        "junction_mean": 0.2624933123588562,
+        "junction_max": 7.625
+      },
+      {
+        "tissue": "lung",
+        "strand": "+",
+        "junction_mean": 0.07559271156787872,
+        "junction_max": 1.1796875
+      },
+      {
+        "tissue": "spleen",
+        "strand": "+",
+        "junction_mean": 0.1816253513097763,
+        "junction_max": 5.4375
+      },
+      {
+        "tissue": "spleen",
+        "strand": "+",
+        "junction_mean": 0.13417044281959534,
+        "junction_max": 1.8515625
+      },
+      {
+        "tissue": "liver",
+        "strand": "+",
+        "junction_mean": 0.11150938272476196,
+        "junction_max": 2.15625
+      },
+      {
+        "tissue": "liver",
+        "strand": "+",
+        "junction_mean": 0.08223139494657516,
+        "junction_max": 0.94921875
+      },
+      {
+        "tissue": "brain",
+        "strand": "-",
+        "junction_mean": 2.539731576689519e-05,
+        "junction_max": 0.002471923828125
+      },
+      {
+        "tissue": "transverse colon",
+        "strand": "-",
+        "junction_mean": 2.763423981377855e-05,
+        "junction_max": 0.000415802001953125
+      },
+      {
+        "tissue": "lung",
+        "strand": "-",
+        "junction_mean": 0.015910040587186813,
+        "junction_max": 0.69921875
+      },
+      {
+        "tissue": "lung",
+        "strand": "-",
+        "junction_mean": 2.430466156511102e-05,
+        "junction_max": 0.000598907470703125
+      },
+      {
+        "tissue": "spleen",
+        "strand": "-",
+        "junction_mean": 0.009824089705944061,
+        "junction_max": 0.3671875
+      },
+      {
+        "tissue": "spleen",
+        "strand": "-",
+        "junction_mean": 6.89744992996566e-05,
+        "junction_max": 0.0018768310546875
+      },
+      {
+        "tissue": "liver",
+        "strand": "-",
+        "junction_mean": 0.0035690879449248314,
+        "junction_max": 0.087890625
+      },
+      {
+        "tissue": "liver",
+        "strand": "-",
+        "junction_mean": 4.603395427693613e-05,
+        "junction_max": 0.001129150390625
+      },
+      {
+        "tissue": "transverse colon",
+        "strand": ".",
+        "junction_mean": 0.2356395572423935,
+        "junction_max": 5.21875
+      },
+      {
+        "tissue": "spleen",
+        "strand": ".",
+        "junction_mean": 0.299660325050354,
+        "junction_max": 7.21875
+      },
+      {
+        "tissue": "spleen",
+        "strand": ".",
+        "junction_mean": 0.19148662686347961,
+        "junction_max": 4.0
+      },
+      {
+        "tissue": "liver",
+        "strand": ".",
+        "junction_mean": 0.05526745691895485,
+        "junction_max": 2.0625
+      }
+    ],
+    "splice_sites_at_junction": [
+      {
+        "track": "donor",
+        "splice_sites_near_junction": 10,
+        "max_score": 1.0
+      },
+      {
+        "track": "acceptor",
+        "splice_sites_near_junction": 7,
+        "max_score": 0.99609375
+      },
+      {
+        "track": "donor",
+        "splice_sites_near_junction": 0,
+        "max_score": 0.021240234375
+      },
+      {
+        "track": "acceptor",
+        "splice_sites_near_junction": 0,
+        "max_score": 0.005523681640625
+      }
+    ],
+    "dnase_at_junction": [
+      {
+        "tissue": "brain",
+        "junction_mean": 0.16116487979888916,
+        "junction_max": 90.0
+      },
+      {
+        "tissue": "transverse colon",
+        "junction_mean": 0.26258257031440735,
+        "junction_max": 122.5
+      },
+      {
+        "tissue": "lung",
+        "junction_mean": 0.21435408294200897,
+        "junction_max": 90.5
+      },
+      {
+        "tissue": "spleen",
+        "junction_mean": 0.1908041387796402,
+        "junction_max": 33.5
+      },
+      {
+        "tissue": "liver",
+        "junction_mean": 0.1493300050497055,
+        "junction_max": 37.5
+      }
+    ]
+  },
+  "normal_ASPSCR1": {
+    "rna_seq_at_junction": [
+      {
+        "tissue": "brain",
+        "strand": "+",
+        "junction_mean": 0.09369537234306335,
+        "junction_max": 3.9375
+      },
+      {
+        "tissue": "transverse colon",
+        "strand": "+",
+        "junction_mean": 0.07765824347734451,
+        "junction_max": 0.94140625
+      },
+      {
+        "tissue": "lung",
+        "strand": "+",
+        "junction_mean": 0.1603509783744812,
+        "junction_max": 3.34375
+      },
+      {
+        "tissue": "lung",
+        "strand": "+",
+        "junction_mean": 0.041579850018024445,
+        "junction_max": 0.5625
+      },
+      {
+        "tissue": "spleen",
+        "strand": "+",
+        "junction_mean": 0.17753097414970398,
+        "junction_max": 4.78125
+      },
+      {
+        "tissue": "spleen",
+        "strand": "+",
+        "junction_mean": 0.06350787729024887,
+        "junction_max": 0.71484375
+      },
+      {
+        "tissue": "liver",
+        "strand": "+",
+        "junction_mean": 0.07711948454380035,
+        "junction_max": 2.234375
+      },
+      {
+        "tissue": "liver",
+        "strand": "+",
+        "junction_mean": 0.07924868166446686,
+        "junction_max": 0.9375
+      },
+      {
+        "tissue": "brain",
+        "strand": "-",
+        "junction_mean": 0.05256294459104538,
+        "junction_max": 4.71875
+      },
+      {
+        "tissue": "transverse colon",
+        "strand": "-",
+        "junction_mean": 0.01723385788500309,
+        "junction_max": 1.296875
+      },
+      {
+        "tissue": "lung",
+        "strand": "-",
+        "junction_mean": 0.08973254263401031,
+        "junction_max": 6.46875
+      },
+      {
+        "tissue": "lung",
+        "strand": "-",
+        "junction_mean": 0.011224779300391674,
+        "junction_max": 0.96484375
+      },
+      {
+        "tissue": "spleen",
+        "strand": "-",
+        "junction_mean": 0.1053428128361702,
+        "junction_max": 7.875
+      },
+      {
+        "tissue": "spleen",
+        "strand": "-",
+        "junction_mean": 0.015436683781445026,
+        "junction_max": 1.125
+      },
+      {
+        "tissue": "liver",
+        "strand": "-",
+        "junction_mean": 0.06409921497106552,
+        "junction_max": 5.5
+      },
+      {
+        "tissue": "liver",
+        "strand": "-",
+        "junction_mean": 0.026181844994425774,
+        "junction_max": 2.03125
+      },
+      {
+        "tissue": "transverse colon",
+        "strand": ".",
+        "junction_mean": 0.19496899843215942,
+        "junction_max": 3.796875
+      },
+      {
+        "tissue": "spleen",
+        "strand": ".",
+        "junction_mean": 0.24493420124053955,
+        "junction_max": 4.6875
+      },
+      {
+        "tissue": "spleen",
+        "strand": ".",
+        "junction_mean": 0.1699112057685852,
+        "junction_max": 4.125
+      },
+      {
+        "tissue": "liver",
+        "strand": ".",
+        "junction_mean": 0.11610008776187897,
+        "junction_max": 7.09375
+      }
+    ],
+    "splice_sites_at_junction": [
+      {
+        "track": "donor",
+        "splice_sites_near_junction": 11,
+        "max_score": 1.0
+      },
+      {
+        "track": "acceptor",
+        "splice_sites_near_junction": 8,
+        "max_score": 1.0
+      },
+      {
+        "track": "donor",
+        "splice_sites_near_junction": 0,
+        "max_score": 0.0036163330078125
+      },
+      {
+        "track": "acceptor",
+        "splice_sites_near_junction": 0,
+        "max_score": 0.0028839111328125
+      }
+    ],
+    "dnase_at_junction": [
+      {
+        "tissue": "brain",
+        "junction_mean": 0.19019436836242676,
+        "junction_max": 88.0
+      },
+      {
+        "tissue": "transverse colon",
+        "junction_mean": 0.3213617205619812,
+        "junction_max": 150.0
+      },
+      {
+        "tissue": "lung",
+        "junction_mean": 0.20471781492233276,
+        "junction_max": 83.0
+      },
+      {
+        "tissue": "spleen",
+        "junction_mean": 0.3069317638874054,
+        "junction_max": 49.25
+      },
+      {
+        "tissue": "liver",
+        "junction_mean": 0.22198724746704102,
+        "junction_max": 55.75
+      }
+    ]
+  },
+  "normal_TFE3": {
+    "rna_seq_at_junction": [
+      {
+        "tissue": "brain",
+        "strand": "+",
+        "junction_mean": 0.017558949068188667,
+        "junction_max": 0.8203125
+      },
+      {
+        "tissue": "transverse colon",
+        "strand": "+",
+        "junction_mean": 0.050623077899217606,
+        "junction_max": 1.25
+      },
+      {
+        "tissue": "lung",
+        "strand": "+",
+        "junction_mean": 0.046833232045173645,
+        "junction_max": 0.7109375
+      },
+      {
+        "tissue": "lung",
+        "strand": "+",
+        "junction_mean": 0.01050016563385725,
+        "junction_max": 0.25390625
+      },
+      {
+        "tissue": "spleen",
+        "strand": "+",
+        "junction_mean": 0.01645640842616558,
+        "junction_max": 0.330078125
+      },
+      {
+        "tissue": "spleen",
+        "strand": "+",
+        "junction_mean": 0.009328409098088741,
+        "junction_max": 0.27734375
+      },
+      {
+        "tissue": "liver",
+        "strand": "+",
+        "junction_mean": 0.014440260827541351,
+        "junction_max": 0.30078125
+      },
+      {
+        "tissue": "liver",
+        "strand": "+",
+        "junction_mean": 0.006220274604856968,
+        "junction_max": 0.255859375
+      },
+      {
+        "tissue": "brain",
+        "strand": "-",
+        "junction_mean": 0.08375095576047897,
+        "junction_max": 3.796875
+      },
+      {
+        "tissue": "transverse colon",
+        "strand": "-",
+        "junction_mean": 0.06931944191455841,
+        "junction_max": 1.4296875
+      },
+      {
+        "tissue": "lung",
+        "strand": "-",
+        "junction_mean": 0.20297744870185852,
+        "junction_max": 7.0625
+      },
+      {
+        "tissue": "lung",
+        "strand": "-",
+        "junction_mean": 0.04799811914563179,
+        "junction_max": 1.0625
+      },
+      {
+        "tissue": "spleen",
+        "strand": "-",
+        "junction_mean": 0.14302822947502136,
+        "junction_max": 5.15625
+      },
+      {
+        "tissue": "spleen",
+        "strand": "-",
+        "junction_mean": 0.10498286783695221,
+        "junction_max": 1.921875
+      },
+      {
+        "tissue": "liver",
+        "strand": "-",
+        "junction_mean": 0.08453678339719772,
+        "junction_max": 1.921875
+      },
+      {
+        "tissue": "liver",
+        "strand": "-",
+        "junction_mean": 0.043110594153404236,
+        "junction_max": 0.9375
+      },
+      {
+        "tissue": "transverse colon",
+        "strand": ".",
+        "junction_mean": 0.2373262643814087,
+        "junction_max": 4.84375
+      },
+      {
+        "tissue": "spleen",
+        "strand": ".",
+        "junction_mean": 0.2760229706764221,
+        "junction_max": 6.75
+      },
+      {
+        "tissue": "spleen",
+        "strand": ".",
+        "junction_mean": 0.17160306870937347,
+        "junction_max": 3.5
+      },
+      {
+        "tissue": "liver",
+        "strand": ".",
+        "junction_mean": 0.037683743983507156,
+        "junction_max": 1.5625
+      }
+    ],
+    "splice_sites_at_junction": [
+      {
+        "track": "donor",
+        "splice_sites_near_junction": 0,
+        "max_score": 0.0135498046875
+      },
+      {
+        "track": "acceptor",
+        "splice_sites_near_junction": 0,
+        "max_score": 0.004302978515625
+      },
+      {
+        "track": "donor",
+        "splice_sites_near_junction": 7,
+        "max_score": 1.0
+      },
+      {
+        "track": "acceptor",
+        "splice_sites_near_junction": 5,
+        "max_score": 0.99609375
+      }
+    ],
+    "dnase_at_junction": [
+      {
+        "tissue": "brain",
+        "junction_mean": 0.1160966232419014,
+        "junction_max": 69.0
+      },
+      {
+        "tissue": "transverse colon",
+        "junction_mean": 0.20163507759571075,
+        "junction_max": 98.5
+      },
+      {
+        "tissue": "lung",
+        "junction_mean": 0.1347782164812088,
+        "junction_max": 68.5
+      },
+      {
+        "tissue": "spleen",
+        "junction_mean": 0.1385342925786972,
+        "junction_max": 28.625
+      },
+      {
+        "tissue": "liver",
+        "junction_mean": 0.08861223608255386,
+        "junction_max": 29.0
+      }
+    ]
+  }
+}

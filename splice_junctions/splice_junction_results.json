@@ -1,0 +1,174 @@
+{
+  "ASPSCR1": {
+    "splice_site_usage": {
+      "shape": [
+        1048576,
+        20
+      ],
+      "n_tracks": 20
+    },
+    "splice_junctions_track": {
+      "shape": [
+        254607,
+        10
+      ],
+      "n_tracks": 10
+    },
+    "variant_splice_effects": [
+      {
+        "variant": "chr17:82010811:N>A",
+        "max_effect": 1.574191264808178e-05,
+        "mean_abs_effect": 1.5580870922349277e-06
+      },
+      {
+        "variant": "chr17:82010811:N>C",
+        "max_effect": 3.109104000031948e-05,
+        "mean_abs_effect": 2.3839804725866998e-06
+      },
+      {
+        "variant": "chr17:82010811:N>G",
+        "max_effect": 4.668324254453182e-05,
+        "mean_abs_effect": 5.7680690588313155e-06
+      },
+      {
+        "variant": "chr17:82010811:N>T",
+        "max_effect": 4.68352809548378e-05,
+        "mean_abs_effect": 5.853781317455287e-07
+      }
+    ],
+    "splice_sites_near_bp": {
+      "within_500bp": 2,
+      "within_2kb": 12,
+      "within_10kb": 35
+    }
+  },
+  "TFE3": {
+    "splice_site_usage": {
+      "shape": [
+        1048576,
+        20
+      ],
+      "n_tracks": 20
+    },
+    "splice_junctions_track": {
+      "shape": [
+        150524,
+        10
+      ],
+      "n_tracks": 10
+    },
+    "variant_splice_effects": [
+      {
+        "variant": "chrX:49043986:N>A",
+        "max_effect": 2.5022654881468043e-07,
+        "mean_abs_effect": 7.288481640443933e-08
+      },
+      {
+        "variant": "chrX:49043986:N>C",
+        "max_effect": 7.988855941221118e-07,
+        "mean_abs_effect": 1.222651917487383e-07
+      },
+      {
+        "variant": "chrX:49043986:N>G",
+        "max_effect": 1.582240656716749e-06,
+        "mean_abs_effect": 2.3822931893846544e-07
+      },
+      {
+        "variant": "chrX:49043986:N>T",
+        "max_effect": 1.0592393664410338e-06,
+        "mean_abs_effect": 1.3654128849793778e-07
+      }
+    ],
+    "splice_sites_near_bp": {
+      "within_500bp": 0,
+      "within_2kb": 1,
+      "within_10kb": 16
+    }
+  },
+  "DNMT1_chr1": {
+    "splice_site_usage": {
+      "shape": [
+        1048576,
+        20
+      ],
+      "n_tracks": 20
+    },
+    "splice_junctions_track": {
+      "shape": [
+        29203,
+        10
+      ],
+      "n_tracks": 10
+    },
+    "variant_splice_effects": [
+      {
+        "variant": "chr1:31048832:N>A",
+        "max_effect": 1.6358626453438774e-08,
+        "mean_abs_effect": 3.079611676781724e-09
+      },
+      {
+        "variant": "chr1:31048832:N>C",
+        "max_effect": 2.2522726794704795e-08,
+        "mean_abs_effect": 7.371514065823703e-09
+      },
+      {
+        "variant": "chr1:31048832:N>G",
+        "max_effect": 1.7860656953416765e-08,
+        "mean_abs_effect": 3.975612283824148e-09
+      },
+      {
+        "variant": "chr1:31048832:N>T",
+        "max_effect": 1.046942088578362e-08,
+        "mean_abs_effect": 1.176473474195916e-09
+      }
+    ],
+    "splice_sites_near_bp": {
+      "within_500bp": 0,
+      "within_2kb": 0,
+      "within_10kb": 0
+    }
+  },
+  "DNMT1_chr19": {
+    "splice_site_usage": {
+      "shape": [
+        1048576,
+        20
+      ],
+      "n_tracks": 20
+    },
+    "splice_junctions_track": {
+      "shape": [
+        215167,
+        10
+      ],
+      "n_tracks": 10
+    },
+    "variant_splice_effects": [
+      {
+        "variant": "chr19:10160241:N>A",
+        "max_effect": 1.594237983226776e-05,
+        "mean_abs_effect": 1.6491841279275832e-06
+      },
+      {
+        "variant": "chr19:10160241:N>C",
+        "max_effect": 2.3335684090852737e-05,
+        "mean_abs_effect": 1.8944506336993072e-06
+      },
+      {
+        "variant": "chr19:10160241:N>G",
+        "max_effect": 2.4198554456233978e-05,
+        "mean_abs_effect": 2.199528807977913e-06
+      },
+      {
+        "variant": "chr19:10160241:N>T",
+        "max_effect": 3.087148070335388e-05,
+        "mean_abs_effect": 4.2310521166655235e-06
+      }
+    ],
+    "splice_sites_near_bp": {
+      "within_500bp": 7,
+      "within_2kb": 8,
+      "within_10kb": 32
+    }
+  }
+}

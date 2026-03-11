@@ -1,0 +1,154 @@
+{
+  "ASPSCR1": {
+    "IMR90": {
+      "tad_boundaries": 4,
+      "at_boundary": true,
+      "nearest_bp": 14336,
+      "insulation": 0.2968
+    },
+    "HFFc6_t0": {
+      "tad_boundaries": 1,
+      "at_boundary": false,
+      "nearest_bp": 337920,
+      "insulation": 0.0018
+    },
+    "HFFc6_t1": {
+      "tad_boundaries": 1,
+      "at_boundary": false,
+      "nearest_bp": 337920,
+      "insulation": 0.2208
+    },
+    "HCT116_t0": {
+      "tad_boundaries": 4,
+      "at_boundary": true,
+      "nearest_bp": 12288,
+      "insulation": 0.2889
+    },
+    "HCT116_t1": {
+      "tad_boundaries": 8,
+      "at_boundary": true,
+      "nearest_bp": 20480,
+      "insulation": 0.2917
+    },
+    "HepG2": {
+      "tad_boundaries": 7,
+      "at_boundary": true,
+      "nearest_bp": 12288,
+      "insulation": 0.3249
+    }
+  },
+  "TFE3": {
+    "IMR90": {
+      "tad_boundaries": 3,
+      "at_boundary": true,
+      "nearest_bp": 10240,
+      "insulation": 0.2757
+    },
+    "HFFc6_t0": {
+      "tad_boundaries": 1,
+      "at_boundary": false,
+      "nearest_bp": 94208,
+      "insulation": 0.001
+    },
+    "HFFc6_t1": {
+      "tad_boundaries": 5,
+      "at_boundary": true,
+      "nearest_bp": 8192,
+      "insulation": 0.2152
+    },
+    "HCT116_t0": {
+      "tad_boundaries": 2,
+      "at_boundary": true,
+      "nearest_bp": 8192,
+      "insulation": 0.2587
+    },
+    "HCT116_t1": {
+      "tad_boundaries": 5,
+      "at_boundary": true,
+      "nearest_bp": 8192,
+      "insulation": 0.2755
+    },
+    "HepG2": {
+      "tad_boundaries": 5,
+      "at_boundary": true,
+      "nearest_bp": 4096,
+      "insulation": 0.2748
+    }
+  },
+  "DNMT1_chr1": {
+    "IMR90": {
+      "tad_boundaries": 2,
+      "at_boundary": true,
+      "nearest_bp": 18432,
+      "insulation": 0.2672
+    },
+    "HFFc6_t0": {
+      "tad_boundaries": 2,
+      "at_boundary": true,
+      "nearest_bp": 10240,
+      "insulation": 0.001
+    },
+    "HFFc6_t1": {
+      "tad_boundaries": 5,
+      "at_boundary": true,
+      "nearest_bp": 10240,
+      "insulation": 0.2282
+    },
+    "HCT116_t0": {
+      "tad_boundaries": 1,
+      "at_boundary": true,
+      "nearest_bp": 10240,
+      "insulation": 0.2453
+    },
+    "HCT116_t1": {
+      "tad_boundaries": 6,
+      "at_boundary": true,
+      "nearest_bp": 14336,
+      "insulation": 0.2637
+    },
+    "HepG2": {
+      "tad_boundaries": 3,
+      "at_boundary": true,
+      "nearest_bp": 10240,
+      "insulation": 0.2783
+    }
+  },
+  "DNMT1_chr19": {
+    "IMR90": {
+      "tad_boundaries": 2,
+      "at_boundary": false,
+      "nearest_bp": 51200,
+      "insulation": 0.0003
+    },
+    "HFFc6_t0": {
+      "tad_boundaries": 6,
+      "at_boundary": true,
+      "nearest_bp": 47104,
+      "insulation": 0.0008
+    },
+    "HFFc6_t1": {
+      "tad_boundaries": 9,
+      "at_boundary": false,
+      "nearest_bp": 55296,
+      "insulation": 0.0011
+    },
+    "HCT116_t0": {
+      "tad_boundaries": 1,
+      "at_boundary": false,
+      "nearest_bp": 403456,
+      "insulation": 0.0009
+    },
+    "HCT116_t1": {
+      "tad_boundaries": 3,
+      "at_boundary": false,
+      "nearest_bp": 276480,
+      "insulation": 0.0079
+    },
+    "HepG2": {
+      "tad_boundaries": 7,
+      "at_boundary": false,
+      "nearest_bp": 53248,
+      "insulation": 0.0003
+    }
+  }
+}

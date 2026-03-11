@@ -1,0 +1,82 @@
+{
+  "ASPSCR1": {
+    "procap": {
+      "shape": [
+        131072,
+        2
+      ],
+      "n_tracks": 2,
+      "track_names": [
+        "ENCSR740IPL",
+        "ENCSR740IPL"
+      ]
+    },
+    "cage": {
+      "shape": [
+        131072,
+        8
+      ],
+      "n_tracks": 8
+    }
+  },
+  "TFE3": {
+    "procap": {
+      "shape": [
+        131072,
+        2
+      ],
+      "n_tracks": 2,
+      "track_names": [
+        "ENCSR740IPL",
+        "ENCSR740IPL"
+      ]
+    },
+    "cage": {
+      "shape": [
+        131072,
+        8
+      ],
+      "n_tracks": 8
+    }
+  },
+  "DNMT1_chr1": {
+    "procap": {
+      "shape": [
+        131072,
+        2
+      ],
+      "n_tracks": 2,
+      "track_names": [
+        "ENCSR740IPL",
+        "ENCSR740IPL"
+      ]
+    },
+    "cage": {
+      "shape": [
+        131072,
+        8
+      ],
+      "n_tracks": 8
+    }
+  },
+  "DNMT1_chr19": {
+    "procap": {
+      "shape": [
+        131072,
+        2
+      ],
+      "n_tracks": 2,
+      "track_names": [
+        "ENCSR740IPL",
+        "ENCSR740IPL"
+      ]
+    },
+    "cage": {
+      "shape": [
+        131072,
+        8
+      ],
+      "n_tracks": 8
+    }
+  }
+}

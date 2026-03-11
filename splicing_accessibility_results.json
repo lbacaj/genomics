@@ -1,0 +1,366 @@
+{
+  "ASPSCR1_DNASE": [
+    {
+      "target": "ASPSCR1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000948 DNase-seq",
+      "biosample_name": "heart",
+      "center_1kb_mean": 0.02217967063188553,
+      "center_1kb_max": 0.177734375,
+      "at_breakpoint": 0.07421875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000955 DNase-seq",
+      "biosample_name": "brain",
+      "center_1kb_mean": 0.010268950834870338,
+      "center_1kb_max": 0.0732421875,
+      "at_breakpoint": 0.031982421875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0001157 DNase-seq",
+      "biosample_name": "transverse colon",
+      "center_1kb_mean": 0.06657540053129196,
+      "center_1kb_max": 0.51953125,
+      "at_breakpoint": 0.15234375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002048 DNase-seq",
+      "biosample_name": "lung",
+      "center_1kb_mean": 0.02819039300084114,
+      "center_1kb_max": 0.1943359375,
+      "at_breakpoint": 0.08544921875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002107 DNase-seq",
+      "biosample_name": "liver",
+      "center_1kb_mean": 0.0835733711719513,
+      "center_1kb_max": 0.609375,
+      "at_breakpoint": 0.197265625
+    }
+  ],
+  "ASPSCR1_ATAC": [
+    {
+      "target": "ASPSCR1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0001157 ATAC-seq",
+      "biosample_name": "transverse colon",
+      "center_1kb_mean": 0.05465085059404373,
+      "center_1kb_max": 0.93359375,
+      "at_breakpoint": 0.03564453125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002048 ATAC-seq",
+      "biosample_name": "lung",
+      "center_1kb_mean": 0.046822547912597656,
+      "center_1kb_max": 0.6484375,
+      "at_breakpoint": 0.0302734375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002107 ATAC-seq",
+      "biosample_name": "liver",
+      "center_1kb_mean": 0.06440862268209457,
+      "center_1kb_max": 1.03125,
+      "at_breakpoint": 0.04931640625
+    }
+  ],
+  "ASPSCR1_splice_variant_A": {
+    "variant": "chr17:82010811:N>A",
+    "max_effect": NaN,
+    "mean_effect": NaN
+  },
+  "ASPSCR1_splice_variant_C": {
+    "variant": "chr17:82010811:N>C",
+    "max_effect": NaN,
+    "mean_effect": NaN
+  },
+  "ASPSCR1_splice_variant_G": {
+    "variant": "chr17:82010811:N>G",
+    "max_effect": NaN,
+    "mean_effect": NaN
+  },
+  "ASPSCR1_splice_variant_T": {
+    "variant": "chr17:82010811:N>T",
+    "max_effect": NaN,
+    "mean_effect": NaN
+  },
+  "TFE3_DNASE": [
+    {
+      "target": "TFE3",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000948 DNase-seq",
+      "biosample_name": "heart",
+      "center_1kb_mean": 1.692868709564209,
+      "center_1kb_max": 30.25,
+      "at_breakpoint": 0.9453125
+    },
+    {
+      "target": "TFE3",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000955 DNase-seq",
+      "biosample_name": "brain",
+      "center_1kb_mean": 3.4837779998779297,
+      "center_1kb_max": 63.75,
+      "at_breakpoint": 1.671875
+    },
+    {
+      "target": "TFE3",
+      "modality": "DNASE",
+      "track_name": "UBERON:0001157 DNase-seq",
+      "biosample_name": "transverse colon",
+      "center_1kb_mean": 4.18447208404541,
+      "center_1kb_max": 92.0,
+      "at_breakpoint": 2.109375
+    },
+    {
+      "target": "TFE3",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002048 DNase-seq",
+      "biosample_name": "lung",
+      "center_1kb_mean": 3.445901870727539,
+      "center_1kb_max": 64.5,
+      "at_breakpoint": 2.0625
+    },
+    {
+      "target": "TFE3",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002107 DNase-seq",
+      "biosample_name": "liver",
+      "center_1kb_mean": 1.3111779689788818,
+      "center_1kb_max": 27.0,
+      "at_breakpoint": 0.75390625
+    }
+  ],
+  "TFE3_ATAC": [
+    {
+      "target": "TFE3",
+      "modality": "ATAC",
+      "track_name": "UBERON:0001157 ATAC-seq",
+      "biosample_name": "transverse colon",
+      "center_1kb_mean": 2.0044944286346436,
+      "center_1kb_max": 52.25,
+      "at_breakpoint": 0.0302734375
+    },
+    {
+      "target": "TFE3",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002048 ATAC-seq",
+      "biosample_name": "lung",
+      "center_1kb_mean": 0.9166818857192993,
+      "center_1kb_max": 23.75,
+      "at_breakpoint": 0.014404296875
+    },
+    {
+      "target": "TFE3",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002107 ATAC-seq",
+      "biosample_name": "liver",
+      "center_1kb_mean": 0.5265674591064453,
+      "center_1kb_max": 12.3125,
+      "at_breakpoint": 0.00604248046875
+    }
+  ],
+  "DNMT1_chr1_DNASE": [
+    {
+      "target": "DNMT1_chr1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000948 DNase-seq",
+      "biosample_name": "heart",
+      "center_1kb_mean": 0.011264537461102009,
+      "center_1kb_max": 0.162109375,
+      "at_breakpoint": 0.0035858154296875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000955 DNase-seq",
+      "biosample_name": "brain",
+      "center_1kb_mean": 0.008011209778487682,
+      "center_1kb_max": 0.1630859375,
+      "at_breakpoint": 0.00186920166015625
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0001157 DNase-seq",
+      "biosample_name": "transverse colon",
+      "center_1kb_mean": 0.024571195244789124,
+      "center_1kb_max": 0.392578125,
+      "at_breakpoint": 0.00070953369140625
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002048 DNase-seq",
+      "biosample_name": "lung",
+      "center_1kb_mean": 0.009612190537154675,
+      "center_1kb_max": 0.095703125,
+      "at_breakpoint": 0.00274658203125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002107 DNase-seq",
+      "biosample_name": "liver",
+      "center_1kb_mean": 0.02567920833826065,
+      "center_1kb_max": 0.388671875,
+      "at_breakpoint": 0.003509521484375
+    }
+  ],
+  "DNMT1_chr1_ATAC": [
+    {
+      "target": "DNMT1_chr1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0001157 ATAC-seq",
+      "biosample_name": "transverse colon",
+      "center_1kb_mean": 0.018581649288535118,
+      "center_1kb_max": 0.255859375,
+      "at_breakpoint": 0.0025787353515625
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002048 ATAC-seq",
+      "biosample_name": "lung",
+      "center_1kb_mean": 0.021497104316949844,
+      "center_1kb_max": 0.25390625,
+      "at_breakpoint": 0.00531005859375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002107 ATAC-seq",
+      "biosample_name": "liver",
+      "center_1kb_mean": 0.022563036531209946,
+      "center_1kb_max": 0.310546875,
+      "at_breakpoint": 0.003173828125
+    }
+  ],
+  "DNMT1_chr1_splice_variant_A": {
+    "variant": "chr1:31048832:N>A",
+    "max_effect": NaN,
+    "mean_effect": NaN
+  },
+  "DNMT1_chr1_splice_variant_C": {
+    "variant": "chr1:31048832:N>C",
+    "max_effect": NaN,
+    "mean_effect": NaN
+  },
+  "DNMT1_chr1_splice_variant_G": {
+    "variant": "chr1:31048832:N>G",
+    "max_effect": NaN,
+    "mean_effect": NaN
+  },
+  "DNMT1_chr1_splice_variant_T": {
+    "variant": "chr1:31048832:N>T",
+    "max_effect": NaN,
+    "mean_effect": NaN
+  },
+  "DNMT1_chr19_DNASE": [
+    {
+      "target": "DNMT1_chr19",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000948 DNase-seq",
+      "biosample_name": "heart",
+      "center_1kb_mean": 0.01601187139749527,
+      "center_1kb_max": 0.10693359375,
+      "at_breakpoint": 0.0223388671875
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000955 DNase-seq",
+      "biosample_name": "brain",
+      "center_1kb_mean": 0.012065856717526913,
+      "center_1kb_max": 0.115234375,
+      "at_breakpoint": 0.0206298828125
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "DNASE",
+      "track_name": "UBERON:0001157 DNase-seq",
+      "biosample_name": "transverse colon",
+      "center_1kb_mean": 0.036145079880952835,
+      "center_1kb_max": 0.38671875,
+      "at_breakpoint": 0.083984375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002048 DNase-seq",
+      "biosample_name": "lung",
+      "center_1kb_mean": 0.019314583390951157,
+      "center_1kb_max": 0.15625,
+      "at_breakpoint": 0.0257568359375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002107 DNase-seq",
+      "biosample_name": "liver",
+      "center_1kb_mean": 0.06457127630710602,
+      "center_1kb_max": 0.52734375,
+      "at_breakpoint": 0.1103515625
+    }
+  ],
+  "DNMT1_chr19_ATAC": [
+    {
+      "target": "DNMT1_chr19",
+      "modality": "ATAC",
+      "track_name": "UBERON:0001157 ATAC-seq",
+      "biosample_name": "transverse colon",
+      "center_1kb_mean": 0.02364244870841503,
+      "center_1kb_max": 0.41015625,
+      "at_breakpoint": 8.58306884765625e-05
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002048 ATAC-seq",
+      "biosample_name": "lung",
+      "center_1kb_mean": 0.026792488992214203,
+      "center_1kb_max": 0.396484375,
+      "at_breakpoint": 0.0004787445068359375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002107 ATAC-seq",
+      "biosample_name": "liver",
+      "center_1kb_mean": 0.038572318851947784,
+      "center_1kb_max": 0.5859375,
+      "at_breakpoint": 0.00038909912109375
+    }
+  ],
+  "DNMT1_chr19_splice_variant_A": {
+    "variant": "chr19:10160241:N>A",
+    "max_effect": NaN,
+    "mean_effect": NaN
+  },
+  "DNMT1_chr19_splice_variant_C": {
+    "variant": "chr19:10160241:N>C",
+    "max_effect": NaN,
+    "mean_effect": NaN
+  },
+  "DNMT1_chr19_splice_variant_G": {
+    "variant": "chr19:10160241:N>G",
+    "max_effect": NaN,
+    "mean_effect": NaN
+  },
+  "DNMT1_chr19_splice_variant_T": {
+    "variant": "chr19:10160241:N>T",
+    "max_effect": NaN,
+    "mean_effect": NaN
+  }
+}

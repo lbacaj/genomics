@@ -1,0 +1,3686 @@
+{
+  "ASPSCR1_DNASE": [
+    {
+      "target": "ASPSCR1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002113 DNase-seq",
+      "biosample_name": "kidney",
+      "center_mean": 0.23448073863983154,
+      "center_max": 4.09375,
+      "center_sum": 2344.807373046875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002106 DNase-seq",
+      "biosample_name": "spleen",
+      "center_mean": 0.16972410678863525,
+      "center_max": 1.8984375,
+      "center_sum": 1697.2410888671875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002107 DNase-seq",
+      "biosample_name": "liver",
+      "center_mean": 0.10634347051382065,
+      "center_max": 1.109375,
+      "center_sum": 1063.4346923828125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002048 DNase-seq",
+      "biosample_name": "lung",
+      "center_mean": 0.08209002017974854,
+      "center_max": 4.375,
+      "center_sum": 820.9002075195312
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0001157 DNase-seq",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.08196861296892166,
+      "center_max": 4.25,
+      "center_sum": 819.6861572265625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000948 DNase-seq",
+      "biosample_name": "heart",
+      "center_mean": 0.07957565039396286,
+      "center_max": 3.875,
+      "center_sum": 795.7564697265625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000955 DNase-seq",
+      "biosample_name": "brain",
+      "center_mean": 0.049635015428066254,
+      "center_max": 2.09375,
+      "center_sum": 496.35015869140625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002370 DNase-seq",
+      "biosample_name": "thymus",
+      "center_mean": 0.03942165523767471,
+      "center_max": 0.6640625,
+      "center_sum": 394.216552734375
+    }
+  ],
+  "ASPSCR1_ATAC": [
+    {
+      "target": "ASPSCR1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002106 ATAC-seq",
+      "biosample_name": "spleen",
+      "center_mean": 0.08188734203577042,
+      "center_max": 2.09375,
+      "center_sum": 818.8734130859375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002107 ATAC-seq",
+      "biosample_name": "liver",
+      "center_mean": 0.07777030020952225,
+      "center_max": 2.203125,
+      "center_sum": 777.7030029296875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0001157 ATAC-seq",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.07439138740301132,
+      "center_max": 3.515625,
+      "center_sum": 743.9138793945312
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002113 ATAC-seq",
+      "biosample_name": "kidney",
+      "center_mean": 0.06404440850019455,
+      "center_max": 2.09375,
+      "center_sum": 640.444091796875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002048 ATAC-seq",
+      "biosample_name": "lung",
+      "center_mean": 0.0626232847571373,
+      "center_max": 1.8046875,
+      "center_sum": 626.2328491210938
+    }
+  ],
+  "ASPSCR1_CAGE": [
+    {
+      "target": "ASPSCR1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000955",
+      "biosample_name": "brain",
+      "center_mean": 0.009976384229958057,
+      "center_max": 0.80859375,
+      "center_sum": 99.76383972167969
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000948",
+      "biosample_name": "heart",
+      "center_mean": 0.007450657431036234,
+      "center_max": 0.76953125,
+      "center_sum": 74.50657653808594
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002106",
+      "biosample_name": "spleen",
+      "center_mean": 0.005873751826584339,
+      "center_max": 0.6875,
+      "center_sum": 58.737518310546875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002107",
+      "biosample_name": "liver",
+      "center_mean": 0.00534467026591301,
+      "center_max": 0.58203125,
+      "center_sum": 53.44670104980469
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002113",
+      "biosample_name": "kidney",
+      "center_mean": 0.005320803262293339,
+      "center_max": 0.96875,
+      "center_sum": 53.20803451538086
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002370",
+      "biosample_name": "thymus",
+      "center_mean": 0.00530867138877511,
+      "center_max": 0.47265625,
+      "center_sum": 53.08671188354492
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002048",
+      "biosample_name": "lung",
+      "center_mean": 0.005044505465775728,
+      "center_max": 0.5390625,
+      "center_sum": 50.44505310058594
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000955",
+      "biosample_name": "brain",
+      "center_mean": 0.002530246041715145,
+      "center_max": 0.2021484375,
+      "center_sum": 25.302459716796875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000948",
+      "biosample_name": "heart",
+      "center_mean": 0.0012251099105924368,
+      "center_max": 0.107421875,
+      "center_sum": 12.251099586486816
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002107",
+      "biosample_name": "liver",
+      "center_mean": 0.0010577921057119966,
+      "center_max": 0.09765625,
+      "center_sum": 10.577920913696289
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002370",
+      "biosample_name": "thymus",
+      "center_mean": 0.0007933365413919091,
+      "center_max": 0.06591796875,
+      "center_sum": 7.933365345001221
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002106",
+      "biosample_name": "spleen",
+      "center_mean": 0.0007101109367795289,
+      "center_max": 0.05810546875,
+      "center_sum": 7.101109504699707
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002113",
+      "biosample_name": "kidney",
+      "center_mean": 0.0006300272652879357,
+      "center_max": 0.057861328125,
+      "center_sum": 6.3002729415893555
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002048",
+      "biosample_name": "lung",
+      "center_mean": 0.0003442051529418677,
+      "center_max": 0.0196533203125,
+      "center_sum": 3.442051410675049
+    }
+  ],
+  "ASPSCR1_CHIP_HISTONE": [
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K4me3",
+      "biosample_name": "brain",
+      "center_mean": 384.0234375,
+      "center_max": 10624.0,
+      "center_sum": 347157.1875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K36me3",
+      "biosample_name": "thymus",
+      "center_mean": 339.1637268066406,
+      "center_max": 1200.0,
+      "center_sum": 306604.0
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K27ac",
+      "biosample_name": "spleen",
+      "center_mean": 333.2149353027344,
+      "center_max": 11200.0,
+      "center_sum": 301226.3125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K36me3",
+      "biosample_name": "brain",
+      "center_mean": 317.4005126953125,
+      "center_max": 976.0,
+      "center_sum": 286930.0625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K36me3",
+      "biosample_name": "spleen",
+      "center_mean": 284.2271728515625,
+      "center_max": 976.0,
+      "center_sum": 256941.375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K36me3",
+      "biosample_name": "lung",
+      "center_mean": 275.282470703125,
+      "center_max": 1112.0,
+      "center_sum": 248855.34375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K4me1",
+      "biosample_name": "thymus",
+      "center_mean": 263.0225524902344,
+      "center_max": 2192.0,
+      "center_sum": 237772.375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K4me3",
+      "biosample_name": "thymus",
+      "center_mean": 249.91632080078125,
+      "center_max": 8384.0,
+      "center_sum": 225924.359375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K4me3",
+      "biosample_name": "spleen",
+      "center_mean": 237.68788146972656,
+      "center_max": 5344.0,
+      "center_sum": 214869.84375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K9ac",
+      "biosample_name": "heart",
+      "center_mean": 237.53346252441406,
+      "center_max": 3824.0,
+      "center_sum": 214730.25
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K36me3",
+      "biosample_name": "liver",
+      "center_mean": 215.27601623535156,
+      "center_max": 904.0,
+      "center_sum": 194609.515625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K27ac",
+      "biosample_name": "liver",
+      "center_mean": 212.89356994628906,
+      "center_max": 6656.0,
+      "center_sum": 192455.78125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K27ac",
+      "biosample_name": "lung",
+      "center_mean": 212.8490753173828,
+      "center_max": 6112.0,
+      "center_sum": 192415.5625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K27ac",
+      "biosample_name": "transverse colon",
+      "center_mean": 206.1022491455078,
+      "center_max": 4992.0,
+      "center_sum": 186316.4375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K27ac",
+      "biosample_name": "thymus",
+      "center_mean": 201.1182861328125,
+      "center_max": 4928.0,
+      "center_sum": 181810.9375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K4me1",
+      "biosample_name": "spleen",
+      "center_mean": 200.1868438720703,
+      "center_max": 716.0,
+      "center_sum": 180968.90625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K9me3",
+      "biosample_name": "thymus",
+      "center_mean": 194.64854431152344,
+      "center_max": 704.0,
+      "center_sum": 175962.28125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K36me3",
+      "biosample_name": "kidney",
+      "center_mean": 183.57579040527344,
+      "center_max": 708.0,
+      "center_sum": 165952.515625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K4me1",
+      "biosample_name": "liver",
+      "center_mean": 180.89996337890625,
+      "center_max": 848.0,
+      "center_sum": 163533.5625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K4me3",
+      "biosample_name": "transverse colon",
+      "center_mean": 178.15869140625,
+      "center_max": 3792.0,
+      "center_sum": 161055.453125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K4me1",
+      "biosample_name": "lung",
+      "center_mean": 174.3223876953125,
+      "center_max": 1024.0,
+      "center_sum": 157587.4375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K4me1",
+      "biosample_name": "heart",
+      "center_mean": 166.34078979492188,
+      "center_max": 1112.0,
+      "center_sum": 150372.078125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K4me3",
+      "biosample_name": "liver",
+      "center_mean": 166.32020568847656,
+      "center_max": 4128.0,
+      "center_sum": 150353.46875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K4me3",
+      "biosample_name": "lung",
+      "center_mean": 164.5834197998047,
+      "center_max": 3712.0,
+      "center_sum": 148783.40625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K27ac",
+      "biosample_name": "kidney",
+      "center_mean": 160.9579620361328,
+      "center_max": 5600.0,
+      "center_sum": 145506.0
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K4me3",
+      "biosample_name": "kidney",
+      "center_mean": 160.11199951171875,
+      "center_max": 2688.0,
+      "center_sum": 144741.25
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K4me1",
+      "biosample_name": "brain",
+      "center_mean": 150.40350341796875,
+      "center_max": 632.0,
+      "center_sum": 135964.765625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K9ac",
+      "biosample_name": "kidney",
+      "center_mean": 146.4493865966797,
+      "center_max": 1232.0,
+      "center_sum": 132390.25
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K36me3",
+      "biosample_name": "transverse colon",
+      "center_mean": 139.69862365722656,
+      "center_max": 332.0,
+      "center_sum": 126287.5625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K4me1",
+      "biosample_name": "transverse colon",
+      "center_mean": 136.57823181152344,
+      "center_max": 458.0,
+      "center_sum": 123466.71875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K4me1",
+      "biosample_name": "kidney",
+      "center_mean": 134.4686737060547,
+      "center_max": 620.0,
+      "center_sum": 121559.6875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K9ac",
+      "biosample_name": "liver",
+      "center_mean": 126.5484848022461,
+      "center_max": 1224.0,
+      "center_sum": 114399.828125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K9ac",
+      "biosample_name": "lung",
+      "center_mean": 122.0829849243164,
+      "center_max": 1592.0,
+      "center_sum": 110363.015625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K9me3",
+      "biosample_name": "lung",
+      "center_mean": 99.20760345458984,
+      "center_max": 288.0,
+      "center_sum": 89683.671875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K27me3",
+      "biosample_name": "thymus",
+      "center_mean": 97.97595977783203,
+      "center_max": 780.0,
+      "center_sum": 88570.265625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K4me3",
+      "biosample_name": "heart",
+      "center_mean": 95.6798095703125,
+      "center_max": 1496.0,
+      "center_sum": 86494.546875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K27me3",
+      "biosample_name": "transverse colon",
+      "center_mean": 71.83281707763672,
+      "center_max": 145.0,
+      "center_sum": 64936.8671875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K27me3",
+      "biosample_name": "brain",
+      "center_mean": 63.9649658203125,
+      "center_max": 276.0,
+      "center_sum": 57824.328125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K27me3",
+      "biosample_name": "spleen",
+      "center_mean": 61.24219512939453,
+      "center_max": 151.0,
+      "center_sum": 55362.9453125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K9me3",
+      "biosample_name": "brain",
+      "center_mean": 60.233699798583984,
+      "center_max": 346.0,
+      "center_sum": 54451.265625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K9me3",
+      "biosample_name": "spleen",
+      "center_mean": 48.21297836303711,
+      "center_max": 402.0,
+      "center_sum": 43584.53125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K27me3",
+      "biosample_name": "lung",
+      "center_mean": 38.216468811035156,
+      "center_max": 200.0,
+      "center_sum": 34547.6875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K27me3",
+      "biosample_name": "heart",
+      "center_mean": 33.72410202026367,
+      "center_max": 175.0,
+      "center_sum": 30486.58984375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K9me3",
+      "biosample_name": "liver",
+      "center_mean": 22.84135627746582,
+      "center_max": 237.0,
+      "center_sum": 20648.5859375
+    }
+  ],
+  "ASPSCR1_CHIP_TF": [
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002106 TF ChIP-seq POLR2AphosphoS5",
+      "biosample_name": "spleen",
+      "center_mean": 414.598876953125,
+      "center_max": 8384.0,
+      "center_sum": 374797.375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq POLR2AphosphoS5",
+      "biosample_name": "transverse colon",
+      "center_mean": 157.13333129882812,
+      "center_max": 2448.0,
+      "center_sum": 142048.53125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq POLR2A",
+      "biosample_name": "transverse colon",
+      "center_mean": 129.81240844726562,
+      "center_max": 1312.0,
+      "center_sum": 117350.421875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq CTCF",
+      "biosample_name": "transverse colon",
+      "center_mean": 118.0211181640625,
+      "center_max": 2144.0,
+      "center_sum": 106691.09375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002106 TF ChIP-seq CTCF",
+      "biosample_name": "spleen",
+      "center_mean": 116.28083801269531,
+      "center_max": 2416.0,
+      "center_sum": 105117.875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq SP1",
+      "biosample_name": "liver",
+      "center_mean": 111.72953796386719,
+      "center_max": 2400.0,
+      "center_sum": 101003.5
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0000955 TF ChIP-seq CTCF",
+      "biosample_name": "brain",
+      "center_mean": 110.21832275390625,
+      "center_max": 2080.0,
+      "center_sum": 99637.3671875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002106 TF ChIP-seq POLR2A",
+      "biosample_name": "spleen",
+      "center_mean": 103.93843078613281,
+      "center_max": 480.0,
+      "center_sum": 93960.34375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq CTCF",
+      "biosample_name": "liver",
+      "center_mean": 100.93093872070312,
+      "center_max": 2608.0,
+      "center_sum": 91241.5703125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq GABPA",
+      "biosample_name": "liver",
+      "center_mean": 95.34107208251953,
+      "center_max": 3216.0,
+      "center_sum": 86188.328125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq YY1",
+      "biosample_name": "liver",
+      "center_mean": 91.74278259277344,
+      "center_max": 1640.0,
+      "center_sum": 82935.4765625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq HNF4A",
+      "biosample_name": "liver",
+      "center_mean": 91.08763122558594,
+      "center_max": 2304.0,
+      "center_sum": 82343.21875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq EP300",
+      "biosample_name": "transverse colon",
+      "center_mean": 89.48491668701172,
+      "center_max": 247.0,
+      "center_sum": 80894.3671875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq REST",
+      "biosample_name": "liver",
+      "center_mean": 88.73039245605469,
+      "center_max": 520.0,
+      "center_sum": 80212.2734375
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq FOXA1",
+      "biosample_name": "liver",
+      "center_mean": 88.61314392089844,
+      "center_max": 370.0,
+      "center_sum": 80106.28125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq RXRA",
+      "biosample_name": "liver",
+      "center_mean": 88.02458190917969,
+      "center_max": 2064.0,
+      "center_sum": 79574.21875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq FOXA2",
+      "biosample_name": "liver",
+      "center_mean": 86.35415649414062,
+      "center_max": 524.0,
+      "center_sum": 78064.15625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq NR2F2",
+      "biosample_name": "liver",
+      "center_mean": 84.89441680908203,
+      "center_max": 564.0,
+      "center_sum": 76744.5546875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq EGR1",
+      "biosample_name": "liver",
+      "center_mean": 84.33615112304688,
+      "center_max": 564.0,
+      "center_sum": 76239.8828125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq JUND",
+      "biosample_name": "liver",
+      "center_mean": 80.51471710205078,
+      "center_max": 688.0,
+      "center_sum": 72785.3046875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq HNF4G",
+      "biosample_name": "liver",
+      "center_mean": 80.13384246826172,
+      "center_max": 422.0,
+      "center_sum": 72440.9921875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq MAX",
+      "biosample_name": "liver",
+      "center_mean": 75.57232666015625,
+      "center_max": 434.0,
+      "center_sum": 68317.3828125
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq ATF3",
+      "biosample_name": "liver",
+      "center_mean": 73.13949584960938,
+      "center_max": 952.0,
+      "center_sum": 66118.1015625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq TAF1",
+      "biosample_name": "liver",
+      "center_mean": 72.07886505126953,
+      "center_max": 434.0,
+      "center_sum": 65159.29296875
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq ZBTB33",
+      "biosample_name": "liver",
+      "center_mean": 70.2725830078125,
+      "center_max": 476.0,
+      "center_sum": 63526.4140625
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq RAD21",
+      "biosample_name": "liver",
+      "center_mean": 69.1697006225586,
+      "center_max": 1136.0,
+      "center_sum": 62529.41015625
+    }
+  ],
+  "ASPSCR1_SPLICE_SITES": [
+    {
+      "target": "ASPSCR1",
+      "modality": "SPLICE_SITES",
+      "track_name": "donor",
+      "biosample_name": "",
+      "center_mean": 0.0012710096780210733,
+      "center_max": 1.0,
+      "center_sum": 12.71009635925293
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "SPLICE_SITES",
+      "track_name": "acceptor",
+      "biosample_name": "",
+      "center_mean": 0.001061093993484974,
+      "center_max": 1.0,
+      "center_sum": 10.610939979553223
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "SPLICE_SITES",
+      "track_name": "donor",
+      "biosample_name": "",
+      "center_mean": 3.5599969123722985e-06,
+      "center_max": 0.005340576171875,
+      "center_sum": 0.0355999693274498
+    },
+    {
+      "target": "ASPSCR1",
+      "modality": "SPLICE_SITES",
+      "track_name": "acceptor",
+      "biosample_name": "",
+      "center_mean": 2.6917118702840526e-06,
+      "center_max": 0.0022430419921875,
+      "center_sum": 0.026917118579149246
+    }
+  ],
+  "TFE3_DNASE": [
+    {
+      "target": "TFE3",
+      "modality": "DNASE",
+      "track_name": "UBERON:0001157 DNase-seq",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.607441246509552,
+      "center_max": 92.0,
+      "center_sum": 6074.41259765625
+    },
+    {
+      "target": "TFE3",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002048 DNase-seq",
+      "biosample_name": "lung",
+      "center_mean": 0.4789683520793915,
+      "center_max": 64.5,
+      "center_sum": 4789.68359375
+    },
+    {
+      "target": "TFE3",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000955 DNase-seq",
+      "biosample_name": "brain",
+      "center_mean": 0.4129870533943176,
+      "center_max": 63.75,
+      "center_sum": 4129.87060546875
+    },
+    {
+      "target": "TFE3",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002113 DNase-seq",
+      "biosample_name": "kidney",
+      "center_mean": 0.38582417368888855,
+      "center_max": 34.0,
+      "center_sum": 3858.24169921875
+    },
+    {
+      "target": "TFE3",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002106 DNase-seq",
+      "biosample_name": "spleen",
+      "center_mean": 0.3470475971698761,
+      "center_max": 26.25,
+      "center_sum": 3470.47607421875
+    },
+    {
+      "target": "TFE3",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002370 DNase-seq",
+      "biosample_name": "thymus",
+      "center_mean": 0.2588037848472595,
+      "center_max": 38.5,
+      "center_sum": 2588.037841796875
+    },
+    {
+      "target": "TFE3",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000948 DNase-seq",
+      "biosample_name": "heart",
+      "center_mean": 0.2583733797073364,
+      "center_max": 30.25,
+      "center_sum": 2583.73388671875
+    },
+    {
+      "target": "TFE3",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002107 DNase-seq",
+      "biosample_name": "liver",
+      "center_mean": 0.22498303651809692,
+      "center_max": 27.0,
+      "center_sum": 2249.830322265625
+    }
+  ],
+  "TFE3_ATAC": [
+    {
+      "target": "TFE3",
+      "modality": "ATAC",
+      "track_name": "UBERON:0001157 ATAC-seq",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.3588826060295105,
+      "center_max": 57.0,
+      "center_sum": 3588.826171875
+    },
+    {
+      "target": "TFE3",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002048 ATAC-seq",
+      "biosample_name": "lung",
+      "center_mean": 0.21018654108047485,
+      "center_max": 24.75,
+      "center_sum": 2101.865478515625
+    },
+    {
+      "target": "TFE3",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002113 ATAC-seq",
+      "biosample_name": "kidney",
+      "center_mean": 0.1722583770751953,
+      "center_max": 19.75,
+      "center_sum": 1722.583740234375
+    },
+    {
+      "target": "TFE3",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002107 ATAC-seq",
+      "biosample_name": "liver",
+      "center_mean": 0.1182200163602829,
+      "center_max": 13.5625,
+      "center_sum": 1182.2001953125
+    },
+    {
+      "target": "TFE3",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002106 ATAC-seq",
+      "biosample_name": "spleen",
+      "center_mean": 0.10161048918962479,
+      "center_max": 12.8125,
+      "center_sum": 1016.1048583984375
+    }
+  ],
+  "TFE3_CAGE": [
+    {
+      "target": "TFE3",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002106",
+      "biosample_name": "spleen",
+      "center_mean": 0.5144248008728027,
+      "center_max": 780.0,
+      "center_sum": 5144.248046875
+    },
+    {
+      "target": "TFE3",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002048",
+      "biosample_name": "lung",
+      "center_mean": 0.46632808446884155,
+      "center_max": 772.0,
+      "center_sum": 4663.28076171875
+    },
+    {
+      "target": "TFE3",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002113",
+      "biosample_name": "kidney",
+      "center_mean": 0.4360916018486023,
+      "center_max": 716.0,
+      "center_sum": 4360.916015625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000948",
+      "biosample_name": "heart",
+      "center_mean": 0.3894864320755005,
+      "center_max": 708.0,
+      "center_sum": 3894.8642578125
+    },
+    {
+      "target": "TFE3",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000955",
+      "biosample_name": "brain",
+      "center_mean": 0.36680835485458374,
+      "center_max": 588.0,
+      "center_sum": 3668.08349609375
+    },
+    {
+      "target": "TFE3",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002370",
+      "biosample_name": "thymus",
+      "center_mean": 0.3396522104740143,
+      "center_max": 604.0,
+      "center_sum": 3396.52197265625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002107",
+      "biosample_name": "liver",
+      "center_mean": 0.26427197456359863,
+      "center_max": 600.0,
+      "center_sum": 2642.7197265625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000955",
+      "biosample_name": "brain",
+      "center_mean": 0.007610035128891468,
+      "center_max": 1.9296875,
+      "center_sum": 76.10034942626953
+    },
+    {
+      "target": "TFE3",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002106",
+      "biosample_name": "spleen",
+      "center_mean": 0.004927003290504217,
+      "center_max": 1.1640625,
+      "center_sum": 49.27003479003906
+    },
+    {
+      "target": "TFE3",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002370",
+      "biosample_name": "thymus",
+      "center_mean": 0.004507620818912983,
+      "center_max": 1.5,
+      "center_sum": 45.07620620727539
+    },
+    {
+      "target": "TFE3",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002113",
+      "biosample_name": "kidney",
+      "center_mean": 0.004065756220370531,
+      "center_max": 0.9375,
+      "center_sum": 40.657562255859375
+    },
+    {
+      "target": "TFE3",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000948",
+      "biosample_name": "heart",
+      "center_mean": 0.0034107628744095564,
+      "center_max": 0.66015625,
+      "center_sum": 34.107627868652344
+    },
+    {
+      "target": "TFE3",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002048",
+      "biosample_name": "lung",
+      "center_mean": 0.0033571552485227585,
+      "center_max": 0.98046875,
+      "center_sum": 33.57155227661133
+    },
+    {
+      "target": "TFE3",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002107",
+      "biosample_name": "liver",
+      "center_mean": 0.003329045372083783,
+      "center_max": 0.59765625,
+      "center_sum": 33.29045486450195
+    }
+  ],
+  "TFE3_CHIP_HISTONE": [
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K9me3",
+      "biosample_name": "brain",
+      "center_mean": 3.0756781101226807,
+      "center_max": 48.5,
+      "center_sum": 2780.4130859375
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K9me3",
+      "biosample_name": "lung",
+      "center_mean": 1.811618447303772,
+      "center_max": 78.0,
+      "center_sum": 1637.703125
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K9me3",
+      "biosample_name": "thymus",
+      "center_mean": 1.753677487373352,
+      "center_max": 56.0,
+      "center_sum": 1585.324462890625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K27me3",
+      "biosample_name": "brain",
+      "center_mean": 1.4124380350112915,
+      "center_max": 25.875,
+      "center_sum": 1276.843994140625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K9me3",
+      "biosample_name": "spleen",
+      "center_mean": 1.3465211391448975,
+      "center_max": 23.0,
+      "center_sum": 1217.255126953125
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K27me3",
+      "biosample_name": "spleen",
+      "center_mean": 0.9884138703346252,
+      "center_max": 14.6875,
+      "center_sum": 893.526123046875
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K4me3",
+      "biosample_name": "lung",
+      "center_mean": 0.8035848140716553,
+      "center_max": 22.5,
+      "center_sum": 726.440673828125
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K4me3",
+      "biosample_name": "spleen",
+      "center_mean": 0.7876220345497131,
+      "center_max": 11.625,
+      "center_sum": 712.0103149414062
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K4me1",
+      "biosample_name": "brain",
+      "center_mean": 0.734702467918396,
+      "center_max": 9.1875,
+      "center_sum": 664.1710205078125
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K36me3",
+      "biosample_name": "brain",
+      "center_mean": 0.7018232941627502,
+      "center_max": 11.0625,
+      "center_sum": 634.4482421875
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K4me3",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.6706129908561707,
+      "center_max": 7.9375,
+      "center_sum": 606.234130859375
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K27me3",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.6690255403518677,
+      "center_max": 8.9375,
+      "center_sum": 604.799072265625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K27me3",
+      "biosample_name": "lung",
+      "center_mean": 0.6668570041656494,
+      "center_max": 15.4375,
+      "center_sum": 602.8387451171875
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K4me1",
+      "biosample_name": "spleen",
+      "center_mean": 0.6645969152450562,
+      "center_max": 7.65625,
+      "center_sum": 600.7955932617188
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K9me3",
+      "biosample_name": "liver",
+      "center_mean": 0.6544369459152222,
+      "center_max": 12.5,
+      "center_sum": 591.6110229492188
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K36me3",
+      "biosample_name": "spleen",
+      "center_mean": 0.6173664331436157,
+      "center_max": 7.90625,
+      "center_sum": 558.0992431640625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K4me1",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.5733701586723328,
+      "center_max": 6.96875,
+      "center_sum": 518.3265991210938
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K4me3",
+      "biosample_name": "brain",
+      "center_mean": 0.568801760673523,
+      "center_max": 7.84375,
+      "center_sum": 514.19677734375
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K27ac",
+      "biosample_name": "lung",
+      "center_mean": 0.5625828504562378,
+      "center_max": 16.625,
+      "center_sum": 508.57489013671875
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K27me3",
+      "biosample_name": "thymus",
+      "center_mean": 0.5579723715782166,
+      "center_max": 11.625,
+      "center_sum": 504.40704345703125
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K4me3",
+      "biosample_name": "liver",
+      "center_mean": 0.5564199686050415,
+      "center_max": 10.0,
+      "center_sum": 503.0036315917969
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K4me1",
+      "biosample_name": "lung",
+      "center_mean": 0.5482006072998047,
+      "center_max": 24.125,
+      "center_sum": 495.5733642578125
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K27ac",
+      "biosample_name": "spleen",
+      "center_mean": 0.513996422290802,
+      "center_max": 6.40625,
+      "center_sum": 464.6527404785156
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K27ac",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.49767640233039856,
+      "center_max": 5.75,
+      "center_sum": 449.89947509765625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K36me3",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.4863942861557007,
+      "center_max": 6.0625,
+      "center_sum": 439.700439453125
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K36me3",
+      "biosample_name": "lung",
+      "center_mean": 0.4369758069515228,
+      "center_max": 13.1875,
+      "center_sum": 395.026123046875
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K9ac",
+      "biosample_name": "lung",
+      "center_mean": 0.36900854110717773,
+      "center_max": 5.5625,
+      "center_sum": 333.5837097167969
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K4me3",
+      "biosample_name": "thymus",
+      "center_mean": 0.33453303575515747,
+      "center_max": 4.4375,
+      "center_sum": 302.4178771972656
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K9ac",
+      "biosample_name": "liver",
+      "center_mean": 0.32171326875686646,
+      "center_max": 3.65625,
+      "center_sum": 290.82879638671875
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K4me3",
+      "biosample_name": "heart",
+      "center_mean": 0.31996580958366394,
+      "center_max": 4.1875,
+      "center_sum": 289.24908447265625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K4me1",
+      "biosample_name": "liver",
+      "center_mean": 0.3178325891494751,
+      "center_max": 6.09375,
+      "center_sum": 287.3206481933594
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K36me3",
+      "biosample_name": "liver",
+      "center_mean": 0.3075142502784729,
+      "center_max": 4.9375,
+      "center_sum": 277.9928894042969
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K27ac",
+      "biosample_name": "thymus",
+      "center_mean": 0.3027508556842804,
+      "center_max": 3.453125,
+      "center_sum": 273.686767578125
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K27me3",
+      "biosample_name": "heart",
+      "center_mean": 0.2925344705581665,
+      "center_max": 4.09375,
+      "center_sum": 264.451171875
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K4me3",
+      "biosample_name": "kidney",
+      "center_mean": 0.2591969072818756,
+      "center_max": 3.0625,
+      "center_sum": 234.3140106201172
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K36me3",
+      "biosample_name": "kidney",
+      "center_mean": 0.24608054757118225,
+      "center_max": 2.984375,
+      "center_sum": 222.45681762695312
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K9ac",
+      "biosample_name": "kidney",
+      "center_mean": 0.24017563462257385,
+      "center_max": 3.109375,
+      "center_sum": 217.1187744140625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K27ac",
+      "biosample_name": "liver",
+      "center_mean": 0.2370774894952774,
+      "center_max": 3.515625,
+      "center_sum": 214.31805419921875
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K27ac",
+      "biosample_name": "kidney",
+      "center_mean": 0.23323869705200195,
+      "center_max": 2.890625,
+      "center_sum": 210.8477783203125
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K9ac",
+      "biosample_name": "heart",
+      "center_mean": 0.22980742156505585,
+      "center_max": 3.546875,
+      "center_sum": 207.74591064453125
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K4me1",
+      "biosample_name": "thymus",
+      "center_mean": 0.20258335769176483,
+      "center_max": 3.359375,
+      "center_sum": 183.13536071777344
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K4me1",
+      "biosample_name": "kidney",
+      "center_mean": 0.20248517394065857,
+      "center_max": 2.625,
+      "center_sum": 183.04660034179688
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K36me3",
+      "biosample_name": "thymus",
+      "center_mean": 0.1879102885723114,
+      "center_max": 2.484375,
+      "center_sum": 169.8708953857422
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K4me1",
+      "biosample_name": "heart",
+      "center_mean": 0.1840440183877945,
+      "center_max": 3.171875,
+      "center_sum": 166.37579345703125
+    }
+  ],
+  "TFE3_CHIP_TF": [
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0000955 TF ChIP-seq CTCF",
+      "biosample_name": "brain",
+      "center_mean": 0.9330795407295227,
+      "center_max": 12.1875,
+      "center_sum": 843.50390625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq HNF4G",
+      "biosample_name": "liver",
+      "center_mean": 0.6797099113464355,
+      "center_max": 8.625,
+      "center_sum": 614.457763671875
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq TAF1",
+      "biosample_name": "liver",
+      "center_mean": 0.6079177260398865,
+      "center_max": 7.09375,
+      "center_sum": 549.5576171875
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq CTCF",
+      "biosample_name": "liver",
+      "center_mean": 0.501243531703949,
+      "center_max": 9.5,
+      "center_sum": 453.1241455078125
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq ATF3",
+      "biosample_name": "liver",
+      "center_mean": 0.4220469892024994,
+      "center_max": 5.125,
+      "center_sum": 381.5304870605469
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq MAX",
+      "biosample_name": "liver",
+      "center_mean": 0.4148443043231964,
+      "center_max": 5.40625,
+      "center_sum": 375.0192565917969
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq EGR1",
+      "biosample_name": "liver",
+      "center_mean": 0.4077899754047394,
+      "center_max": 6.875,
+      "center_sum": 368.64215087890625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq GABPA",
+      "biosample_name": "liver",
+      "center_mean": 0.39603137969970703,
+      "center_max": 4.6875,
+      "center_sum": 358.0123596191406
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq FOXA2",
+      "biosample_name": "liver",
+      "center_mean": 0.3948770761489868,
+      "center_max": 5.75,
+      "center_sum": 356.9688720703125
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq REST",
+      "biosample_name": "liver",
+      "center_mean": 0.39254531264305115,
+      "center_max": 5.75,
+      "center_sum": 354.8609619140625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq FOXA1",
+      "biosample_name": "liver",
+      "center_mean": 0.3890135884284973,
+      "center_max": 6.40625,
+      "center_sum": 351.66827392578125
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq ZBTB33",
+      "biosample_name": "liver",
+      "center_mean": 0.3845852315425873,
+      "center_max": 4.75,
+      "center_sum": 347.6650390625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq JUND",
+      "biosample_name": "liver",
+      "center_mean": 0.37210696935653687,
+      "center_max": 4.34375,
+      "center_sum": 336.38470458984375
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq NR2F2",
+      "biosample_name": "liver",
+      "center_mean": 0.3684314489364624,
+      "center_max": 4.3125,
+      "center_sum": 333.0620422363281
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq EP300",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.3479645550251007,
+      "center_max": 5.5,
+      "center_sum": 314.5599670410156
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002106 TF ChIP-seq POLR2A",
+      "biosample_name": "spleen",
+      "center_mean": 0.3386308550834656,
+      "center_max": 7.40625,
+      "center_sum": 306.1222839355469
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq YY1",
+      "biosample_name": "liver",
+      "center_mean": 0.3381952941417694,
+      "center_max": 4.40625,
+      "center_sum": 305.7285461425781
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq POLR2AphosphoS5",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.33267921209335327,
+      "center_max": 5.1875,
+      "center_sum": 300.74200439453125
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002106 TF ChIP-seq CTCF",
+      "biosample_name": "spleen",
+      "center_mean": 0.3228345215320587,
+      "center_max": 6.6875,
+      "center_sum": 291.8424072265625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq RXRA",
+      "biosample_name": "liver",
+      "center_mean": 0.30944764614105225,
+      "center_max": 3.484375,
+      "center_sum": 279.74066162109375
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq POLR2A",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.3058968484401703,
+      "center_max": 5.59375,
+      "center_sum": 276.53076171875
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq CTCF",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.30548715591430664,
+      "center_max": 5.53125,
+      "center_sum": 276.160400390625
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq HNF4A",
+      "biosample_name": "liver",
+      "center_mean": 0.2881515622138977,
+      "center_max": 3.71875,
+      "center_sum": 260.489013671875
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq RAD21",
+      "biosample_name": "liver",
+      "center_mean": 0.27301928400993347,
+      "center_max": 3.109375,
+      "center_sum": 246.80943298339844
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq SP1",
+      "biosample_name": "liver",
+      "center_mean": 0.2714691758155823,
+      "center_max": 3.421875,
+      "center_sum": 245.40814208984375
+    },
+    {
+      "target": "TFE3",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002106 TF ChIP-seq POLR2AphosphoS5",
+      "biosample_name": "spleen",
+      "center_mean": 0.07907821983098984,
+      "center_max": 4.5625,
+      "center_sum": 71.48670959472656
+    }
+  ],
+  "TFE3_SPLICE_SITES": [
+    {
+      "target": "TFE3",
+      "modality": "SPLICE_SITES",
+      "track_name": "donor",
+      "biosample_name": "",
+      "center_mean": 0.000588233582675457,
+      "center_max": 1.0,
+      "center_sum": 5.882335662841797
+    },
+    {
+      "target": "TFE3",
+      "modality": "SPLICE_SITES",
+      "track_name": "acceptor",
+      "biosample_name": "",
+      "center_mean": 0.0005407769931480289,
+      "center_max": 0.99609375,
+      "center_sum": 5.407770156860352
+    },
+    {
+      "target": "TFE3",
+      "modality": "SPLICE_SITES",
+      "track_name": "donor",
+      "biosample_name": "",
+      "center_mean": 8.703556886757724e-06,
+      "center_max": 0.01397705078125,
+      "center_sum": 0.08703556656837463
+    },
+    {
+      "target": "TFE3",
+      "modality": "SPLICE_SITES",
+      "track_name": "acceptor",
+      "biosample_name": "",
+      "center_mean": 4.026312581117963e-06,
+      "center_max": 0.004364013671875,
+      "center_sum": 0.04026312381029129
+    }
+  ],
+  "DNMT1_chr1_DNASE": [
+    {
+      "target": "DNMT1_chr1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002113 DNase-seq",
+      "biosample_name": "kidney",
+      "center_mean": 0.048597827553749084,
+      "center_max": 1.1328125,
+      "center_sum": 485.978271484375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002106 DNase-seq",
+      "biosample_name": "spleen",
+      "center_mean": 0.04421520233154297,
+      "center_max": 1.171875,
+      "center_sum": 442.1520080566406
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002107 DNase-seq",
+      "biosample_name": "liver",
+      "center_mean": 0.04214639961719513,
+      "center_max": 0.57421875,
+      "center_sum": 421.4639892578125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0001157 DNase-seq",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.03148336336016655,
+      "center_max": 0.53515625,
+      "center_sum": 314.8336181640625
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000948 DNase-seq",
+      "biosample_name": "heart",
+      "center_mean": 0.02073744870722294,
+      "center_max": 0.8828125,
+      "center_sum": 207.37448120117188
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002370 DNase-seq",
+      "biosample_name": "thymus",
+      "center_mean": 0.020126376301050186,
+      "center_max": 0.373046875,
+      "center_sum": 201.26376342773438
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002048 DNase-seq",
+      "biosample_name": "lung",
+      "center_mean": 0.01788637414574623,
+      "center_max": 0.51953125,
+      "center_sum": 178.86373901367188
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000955 DNase-seq",
+      "biosample_name": "brain",
+      "center_mean": 0.01457263808697462,
+      "center_max": 0.369140625,
+      "center_sum": 145.72637939453125
+    }
+  ],
+  "DNMT1_chr1_ATAC": [
+    {
+      "target": "DNMT1_chr1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002107 ATAC-seq",
+      "biosample_name": "liver",
+      "center_mean": 0.03705780208110809,
+      "center_max": 1.6953125,
+      "center_sum": 370.5780029296875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002113 ATAC-seq",
+      "biosample_name": "kidney",
+      "center_mean": 0.032839372754096985,
+      "center_max": 1.1171875,
+      "center_sum": 328.39373779296875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002048 ATAC-seq",
+      "biosample_name": "lung",
+      "center_mean": 0.03160877153277397,
+      "center_max": 0.9375,
+      "center_sum": 316.08770751953125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0001157 ATAC-seq",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.025579586625099182,
+      "center_max": 0.7578125,
+      "center_sum": 255.79586791992188
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002106 ATAC-seq",
+      "biosample_name": "spleen",
+      "center_mean": 0.021458834409713745,
+      "center_max": 0.91015625,
+      "center_sum": 214.58834838867188
+    }
+  ],
+  "DNMT1_chr1_CAGE": [
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002370",
+      "biosample_name": "thymus",
+      "center_mean": 0.005974872037768364,
+      "center_max": 3.671875,
+      "center_sum": 59.74871826171875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000955",
+      "biosample_name": "brain",
+      "center_mean": 0.005889267195016146,
+      "center_max": 3.359375,
+      "center_sum": 58.892669677734375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000948",
+      "biosample_name": "heart",
+      "center_mean": 0.004044279456138611,
+      "center_max": 2.78125,
+      "center_sum": 40.44279479980469
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002106",
+      "biosample_name": "spleen",
+      "center_mean": 0.004016596358269453,
+      "center_max": 2.625,
+      "center_sum": 40.16596221923828
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002113",
+      "biosample_name": "kidney",
+      "center_mean": 0.003777329344302416,
+      "center_max": 2.65625,
+      "center_sum": 37.773292541503906
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002048",
+      "biosample_name": "lung",
+      "center_mean": 0.0036726573016494513,
+      "center_max": 2.15625,
+      "center_sum": 36.7265739440918
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002107",
+      "biosample_name": "liver",
+      "center_mean": 0.002463278593495488,
+      "center_max": 1.2578125,
+      "center_sum": 24.63278579711914
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000955",
+      "biosample_name": "brain",
+      "center_mean": 0.0011420458322390914,
+      "center_max": 1.0703125,
+      "center_sum": 11.42045783996582
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002370",
+      "biosample_name": "thymus",
+      "center_mean": 0.0008829275029711425,
+      "center_max": 1.0703125,
+      "center_sum": 8.829275131225586
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002107",
+      "biosample_name": "liver",
+      "center_mean": 0.0008749670232646167,
+      "center_max": 0.89453125,
+      "center_sum": 8.749670028686523
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000948",
+      "biosample_name": "heart",
+      "center_mean": 0.0008489746251143515,
+      "center_max": 0.82421875,
+      "center_sum": 8.48974609375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002113",
+      "biosample_name": "kidney",
+      "center_mean": 0.0007286578183993697,
+      "center_max": 0.96875,
+      "center_sum": 7.286578178405762
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002106",
+      "biosample_name": "spleen",
+      "center_mean": 0.0006617814069613814,
+      "center_max": 0.77734375,
+      "center_sum": 6.617814064025879
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002048",
+      "biosample_name": "lung",
+      "center_mean": 0.0002702074416447431,
+      "center_max": 0.298828125,
+      "center_sum": 2.7020745277404785
+    }
+  ],
+  "DNMT1_chr1_CHIP_HISTONE": [
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K4me1",
+      "biosample_name": "thymus",
+      "center_mean": 297.8346252441406,
+      "center_max": 2768.0,
+      "center_sum": 269242.5
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K27ac",
+      "biosample_name": "thymus",
+      "center_mean": 197.4574432373047,
+      "center_max": 2832.0,
+      "center_sum": 178501.53125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K9me3",
+      "biosample_name": "thymus",
+      "center_mean": 176.49952697753906,
+      "center_max": 1376.0,
+      "center_sum": 159555.578125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K27me3",
+      "biosample_name": "brain",
+      "center_mean": 145.2466278076172,
+      "center_max": 286.0,
+      "center_sum": 131302.953125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K27ac",
+      "biosample_name": "liver",
+      "center_mean": 137.73422241210938,
+      "center_max": 1624.0,
+      "center_sum": 124511.7421875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K27me3",
+      "biosample_name": "spleen",
+      "center_mean": 135.14346313476562,
+      "center_max": 256.0,
+      "center_sum": 122169.6875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K27me3",
+      "biosample_name": "transverse colon",
+      "center_mean": 133.71995544433594,
+      "center_max": 211.0,
+      "center_sum": 120882.84375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K9me3",
+      "biosample_name": "spleen",
+      "center_mean": 125.31232452392578,
+      "center_max": 1120.0,
+      "center_sum": 113282.34375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K4me1",
+      "biosample_name": "liver",
+      "center_mean": 124.4875259399414,
+      "center_max": 688.0,
+      "center_sum": 112536.7265625
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K9me3",
+      "biosample_name": "lung",
+      "center_mean": 118.965087890625,
+      "center_max": 1144.0,
+      "center_sum": 107544.4375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K27me3",
+      "biosample_name": "heart",
+      "center_mean": 118.09703063964844,
+      "center_max": 258.0,
+      "center_sum": 106759.71875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K9me3",
+      "biosample_name": "brain",
+      "center_mean": 114.91400146484375,
+      "center_max": 776.0,
+      "center_sum": 103882.2578125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K4me3",
+      "biosample_name": "thymus",
+      "center_mean": 110.52568817138672,
+      "center_max": 1552.0,
+      "center_sum": 99915.21875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K27ac",
+      "biosample_name": "kidney",
+      "center_mean": 108.58939361572266,
+      "center_max": 832.0,
+      "center_sum": 98164.8125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K4me1",
+      "biosample_name": "transverse colon",
+      "center_mean": 107.94718170166016,
+      "center_max": 324.0,
+      "center_sum": 97584.25
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K36me3",
+      "biosample_name": "thymus",
+      "center_mean": 107.24146270751953,
+      "center_max": 320.0,
+      "center_sum": 96946.28125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K27me3",
+      "biosample_name": "lung",
+      "center_mean": 106.29739379882812,
+      "center_max": 266.0,
+      "center_sum": 96092.84375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K4me1",
+      "biosample_name": "kidney",
+      "center_mean": 105.03074645996094,
+      "center_max": 474.0,
+      "center_sum": 94947.796875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K4me1",
+      "biosample_name": "spleen",
+      "center_mean": 102.23178100585938,
+      "center_max": 408.0,
+      "center_sum": 92417.53125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K9me3",
+      "biosample_name": "liver",
+      "center_mean": 101.67355346679688,
+      "center_max": 944.0,
+      "center_sum": 91912.890625
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K27ac",
+      "biosample_name": "spleen",
+      "center_mean": 100.64276885986328,
+      "center_max": 1592.0,
+      "center_sum": 90981.0625
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K27me3",
+      "biosample_name": "thymus",
+      "center_mean": 100.17058563232422,
+      "center_max": 324.0,
+      "center_sum": 90554.2109375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K27ac",
+      "biosample_name": "transverse colon",
+      "center_mean": 99.60432434082031,
+      "center_max": 988.0,
+      "center_sum": 90042.3125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K9ac",
+      "biosample_name": "kidney",
+      "center_mean": 99.3166275024414,
+      "center_max": 478.0,
+      "center_sum": 89782.234375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K9ac",
+      "biosample_name": "liver",
+      "center_mean": 94.38218688964844,
+      "center_max": 516.0,
+      "center_sum": 85321.5
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K36me3",
+      "biosample_name": "transverse colon",
+      "center_mean": 91.36341857910156,
+      "center_max": 186.0,
+      "center_sum": 82592.53125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K4me1",
+      "biosample_name": "lung",
+      "center_mean": 91.28390502929688,
+      "center_max": 516.0,
+      "center_sum": 82520.6484375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K4me3",
+      "biosample_name": "spleen",
+      "center_mean": 89.60781860351562,
+      "center_max": 620.0,
+      "center_sum": 81005.46875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K4me3",
+      "biosample_name": "transverse colon",
+      "center_mean": 89.14888763427734,
+      "center_max": 604.0,
+      "center_sum": 80590.59375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K4me3",
+      "biosample_name": "kidney",
+      "center_mean": 87.44740295410156,
+      "center_max": 1048.0,
+      "center_sum": 79052.453125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K27ac",
+      "biosample_name": "lung",
+      "center_mean": 85.2352066040039,
+      "center_max": 1088.0,
+      "center_sum": 77052.625
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K4me3",
+      "biosample_name": "lung",
+      "center_mean": 85.02819061279297,
+      "center_max": 264.0,
+      "center_sum": 76865.484375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K4me3",
+      "biosample_name": "liver",
+      "center_mean": 84.75555419921875,
+      "center_max": 848.0,
+      "center_sum": 76619.0234375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K4me1",
+      "biosample_name": "brain",
+      "center_mean": 82.5714340209961,
+      "center_max": 374.0,
+      "center_sum": 74644.578125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K4me3",
+      "biosample_name": "heart",
+      "center_mean": 78.05391693115234,
+      "center_max": 616.0,
+      "center_sum": 70560.7421875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K9ac",
+      "biosample_name": "lung",
+      "center_mean": 73.66905212402344,
+      "center_max": 332.0,
+      "center_sum": 66596.8203125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K36me3",
+      "biosample_name": "kidney",
+      "center_mean": 70.7824478149414,
+      "center_max": 170.0,
+      "center_sum": 63987.3359375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K36me3",
+      "biosample_name": "spleen",
+      "center_mean": 70.56993103027344,
+      "center_max": 132.0,
+      "center_sum": 63795.21875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K9ac",
+      "biosample_name": "heart",
+      "center_mean": 66.57035064697266,
+      "center_max": 964.0,
+      "center_sum": 60179.59375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K4me1",
+      "biosample_name": "heart",
+      "center_mean": 66.05081176757812,
+      "center_max": 652.0,
+      "center_sum": 59709.93359375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K36me3",
+      "biosample_name": "brain",
+      "center_mean": 54.37687683105469,
+      "center_max": 118.0,
+      "center_sum": 49156.6953125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K36me3",
+      "biosample_name": "liver",
+      "center_mean": 51.82516860961914,
+      "center_max": 217.0,
+      "center_sum": 46849.953125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K4me3",
+      "biosample_name": "brain",
+      "center_mean": 50.95372009277344,
+      "center_max": 708.0,
+      "center_sum": 46062.1640625
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K36me3",
+      "biosample_name": "lung",
+      "center_mean": 50.66584777832031,
+      "center_max": 154.0,
+      "center_sum": 45801.92578125
+    }
+  ],
+  "DNMT1_chr1_CHIP_TF": [
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0000955 TF ChIP-seq CTCF",
+      "biosample_name": "brain",
+      "center_mean": 115.27118682861328,
+      "center_max": 3216.0,
+      "center_sum": 104205.15625
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq CTCF",
+      "biosample_name": "transverse colon",
+      "center_mean": 113.11698150634766,
+      "center_max": 3440.0,
+      "center_sum": 102257.75
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq HNF4A",
+      "biosample_name": "liver",
+      "center_mean": 112.20486450195312,
+      "center_max": 1992.0,
+      "center_sum": 101433.1953125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002106 TF ChIP-seq CTCF",
+      "biosample_name": "spleen",
+      "center_mean": 111.22758483886719,
+      "center_max": 3568.0,
+      "center_sum": 100549.734375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq SP1",
+      "biosample_name": "liver",
+      "center_mean": 107.55561828613281,
+      "center_max": 1368.0,
+      "center_sum": 97230.28125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq RXRA",
+      "biosample_name": "liver",
+      "center_mean": 106.79820251464844,
+      "center_max": 1816.0,
+      "center_sum": 96545.578125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq CTCF",
+      "biosample_name": "liver",
+      "center_mean": 101.82901000976562,
+      "center_max": 3760.0,
+      "center_sum": 92053.421875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002106 TF ChIP-seq POLR2A",
+      "biosample_name": "spleen",
+      "center_mean": 100.43228149414062,
+      "center_max": 168.0,
+      "center_sum": 90790.78125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq JUND",
+      "biosample_name": "liver",
+      "center_mean": 99.57344818115234,
+      "center_max": 864.0,
+      "center_sum": 90014.3984375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq POLR2A",
+      "biosample_name": "transverse colon",
+      "center_mean": 99.48754119873047,
+      "center_max": 237.0,
+      "center_sum": 89936.734375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq EP300",
+      "biosample_name": "transverse colon",
+      "center_mean": 99.31536865234375,
+      "center_max": 428.0,
+      "center_sum": 89781.09375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq FOXA2",
+      "biosample_name": "liver",
+      "center_mean": 98.43647766113281,
+      "center_max": 390.0,
+      "center_sum": 88986.578125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq FOXA1",
+      "biosample_name": "liver",
+      "center_mean": 97.01602935791016,
+      "center_max": 278.0,
+      "center_sum": 87702.4921875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq YY1",
+      "biosample_name": "liver",
+      "center_mean": 96.4556655883789,
+      "center_max": 668.0,
+      "center_sum": 87195.921875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq HNF4G",
+      "biosample_name": "liver",
+      "center_mean": 95.4023208618164,
+      "center_max": 474.0,
+      "center_sum": 86243.6953125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq ATF3",
+      "biosample_name": "liver",
+      "center_mean": 94.50592803955078,
+      "center_max": 692.0,
+      "center_sum": 85433.359375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq RAD21",
+      "biosample_name": "liver",
+      "center_mean": 93.32820892333984,
+      "center_max": 2208.0,
+      "center_sum": 84368.703125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq REST",
+      "biosample_name": "liver",
+      "center_mean": 92.69192504882812,
+      "center_max": 384.0,
+      "center_sum": 83793.5
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq MAX",
+      "biosample_name": "liver",
+      "center_mean": 91.86360931396484,
+      "center_max": 424.0,
+      "center_sum": 83044.703125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq EGR1",
+      "biosample_name": "liver",
+      "center_mean": 91.748046875,
+      "center_max": 334.0,
+      "center_sum": 82940.234375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq ZBTB33",
+      "biosample_name": "liver",
+      "center_mean": 90.62688446044922,
+      "center_max": 340.0,
+      "center_sum": 81926.703125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq NR2F2",
+      "biosample_name": "liver",
+      "center_mean": 89.92741394042969,
+      "center_max": 572.0,
+      "center_sum": 81294.3828125
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq GABPA",
+      "biosample_name": "liver",
+      "center_mean": 89.90593719482422,
+      "center_max": 364.0,
+      "center_sum": 81274.96875
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq TAF1",
+      "biosample_name": "liver",
+      "center_mean": 88.52253723144531,
+      "center_max": 201.0,
+      "center_sum": 80024.375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq POLR2AphosphoS5",
+      "biosample_name": "transverse colon",
+      "center_mean": 74.58834075927734,
+      "center_max": 1008.0,
+      "center_sum": 67427.859375
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002106 TF ChIP-seq POLR2AphosphoS5",
+      "biosample_name": "spleen",
+      "center_mean": 29.57381248474121,
+      "center_max": 880.0,
+      "center_sum": 26734.7265625
+    }
+  ],
+  "DNMT1_chr1_SPLICE_SITES": [
+    {
+      "target": "DNMT1_chr1",
+      "modality": "SPLICE_SITES",
+      "track_name": "acceptor",
+      "biosample_name": "",
+      "center_mean": 2.963981569337193e-05,
+      "center_max": 0.158203125,
+      "center_sum": 0.2963981628417969
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "SPLICE_SITES",
+      "track_name": "donor",
+      "biosample_name": "",
+      "center_mean": 2.1715117327403277e-05,
+      "center_max": 0.064453125,
+      "center_sum": 0.21715117990970612
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "SPLICE_SITES",
+      "track_name": "donor",
+      "biosample_name": "",
+      "center_mean": 5.142704821992083e-07,
+      "center_max": 0.0006561279296875,
+      "center_sum": 0.005142704583704472
+    },
+    {
+      "target": "DNMT1_chr1",
+      "modality": "SPLICE_SITES",
+      "track_name": "acceptor",
+      "biosample_name": "",
+      "center_mean": 4.083460112269677e-07,
+      "center_max": 9.632110595703125e-05,
+      "center_sum": 0.004083460196852684
+    }
+  ],
+  "DNMT1_chr19_DNASE": [
+    {
+      "target": "DNMT1_chr19",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002113 DNase-seq",
+      "biosample_name": "kidney",
+      "center_mean": 0.07452168315649033,
+      "center_max": 1.9140625,
+      "center_sum": 745.2168579101562
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002107 DNase-seq",
+      "biosample_name": "liver",
+      "center_mean": 0.06475849449634552,
+      "center_max": 0.7734375,
+      "center_sum": 647.5849609375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002106 DNase-seq",
+      "biosample_name": "spleen",
+      "center_mean": 0.05987090989947319,
+      "center_max": 1.5625,
+      "center_sum": 598.7091064453125
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "DNASE",
+      "track_name": "UBERON:0001157 DNase-seq",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.035441335290670395,
+      "center_max": 0.46484375,
+      "center_sum": 354.4133605957031
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002370 DNase-seq",
+      "biosample_name": "thymus",
+      "center_mean": 0.023928655311465263,
+      "center_max": 0.271484375,
+      "center_sum": 239.28656005859375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "DNASE",
+      "track_name": "UBERON:0002048 DNase-seq",
+      "biosample_name": "lung",
+      "center_mean": 0.020639175549149513,
+      "center_max": 0.365234375,
+      "center_sum": 206.39175415039062
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000948 DNase-seq",
+      "biosample_name": "heart",
+      "center_mean": 0.017475664615631104,
+      "center_max": 0.28515625,
+      "center_sum": 174.75665283203125
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "DNASE",
+      "track_name": "UBERON:0000955 DNase-seq",
+      "biosample_name": "brain",
+      "center_mean": 0.010927237570285797,
+      "center_max": 0.234375,
+      "center_sum": 109.27237701416016
+    }
+  ],
+  "DNMT1_chr19_ATAC": [
+    {
+      "target": "DNMT1_chr19",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002107 ATAC-seq",
+      "biosample_name": "liver",
+      "center_mean": 0.03786291554570198,
+      "center_max": 0.9765625,
+      "center_sum": 378.629150390625
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002106 ATAC-seq",
+      "biosample_name": "spleen",
+      "center_mean": 0.031224103644490242,
+      "center_max": 0.89453125,
+      "center_sum": 312.24102783203125
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002113 ATAC-seq",
+      "biosample_name": "kidney",
+      "center_mean": 0.02817884273827076,
+      "center_max": 0.7578125,
+      "center_sum": 281.7884216308594
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "ATAC",
+      "track_name": "UBERON:0002048 ATAC-seq",
+      "biosample_name": "lung",
+      "center_mean": 0.027901746332645416,
+      "center_max": 0.65234375,
+      "center_sum": 279.0174560546875
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "ATAC",
+      "track_name": "UBERON:0001157 ATAC-seq",
+      "biosample_name": "transverse colon",
+      "center_mean": 0.025473596528172493,
+      "center_max": 0.640625,
+      "center_sum": 254.7359619140625
+    }
+  ],
+  "DNMT1_chr19_CAGE": [
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002370",
+      "biosample_name": "thymus",
+      "center_mean": 0.02631240151822567,
+      "center_max": 58.75,
+      "center_sum": 263.1240234375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000955",
+      "biosample_name": "brain",
+      "center_mean": 0.020309926941990852,
+      "center_max": 62.5,
+      "center_sum": 203.09927368164062
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002106",
+      "biosample_name": "spleen",
+      "center_mean": 0.015767080709338188,
+      "center_max": 43.75,
+      "center_sum": 157.67080688476562
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000948",
+      "biosample_name": "heart",
+      "center_mean": 0.013807184062898159,
+      "center_max": 39.5,
+      "center_sum": 138.07183837890625
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002048",
+      "biosample_name": "lung",
+      "center_mean": 0.011620271019637585,
+      "center_max": 35.25,
+      "center_sum": 116.20271301269531
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002107",
+      "biosample_name": "liver",
+      "center_mean": 0.010100970044732094,
+      "center_max": 38.5,
+      "center_sum": 101.00970458984375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002113",
+      "biosample_name": "kidney",
+      "center_mean": 0.010091545060276985,
+      "center_max": 32.0,
+      "center_sum": 100.91545104980469
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000955",
+      "biosample_name": "brain",
+      "center_mean": 0.0024736428167670965,
+      "center_max": 0.375,
+      "center_sum": 24.736427307128906
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002370",
+      "biosample_name": "thymus",
+      "center_mean": 0.002086736261844635,
+      "center_max": 0.3828125,
+      "center_sum": 20.86736297607422
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0000948",
+      "biosample_name": "heart",
+      "center_mean": 0.0012640428030863404,
+      "center_max": 0.1953125,
+      "center_sum": 12.640427589416504
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002106",
+      "biosample_name": "spleen",
+      "center_mean": 0.00102799735032022,
+      "center_max": 0.140625,
+      "center_sum": 10.279973030090332
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002107",
+      "biosample_name": "liver",
+      "center_mean": 0.0006916223792359233,
+      "center_max": 0.0888671875,
+      "center_sum": 6.916223526000977
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002113",
+      "biosample_name": "kidney",
+      "center_mean": 0.0006542934570461512,
+      "center_max": 0.10205078125,
+      "center_sum": 6.542934417724609
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CAGE",
+      "track_name": "hCAGE UBERON:0002048",
+      "biosample_name": "lung",
+      "center_mean": 0.00035541175748221576,
+      "center_max": 0.04443359375,
+      "center_sum": 3.554117441177368
+    }
+  ],
+  "DNMT1_chr19_CHIP_HISTONE": [
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K4me3",
+      "biosample_name": "brain",
+      "center_mean": 396.2177734375,
+      "center_max": 11584.0,
+      "center_sum": 358180.875
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K36me3",
+      "biosample_name": "thymus",
+      "center_mean": 384.5115051269531,
+      "center_max": 1488.0,
+      "center_sum": 347598.40625
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K27ac",
+      "biosample_name": "spleen",
+      "center_mean": 371.72344970703125,
+      "center_max": 8192.0,
+      "center_sum": 336038.0
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K4me3",
+      "biosample_name": "thymus",
+      "center_mean": 321.419677734375,
+      "center_max": 12928.0,
+      "center_sum": 290563.375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K36me3",
+      "biosample_name": "spleen",
+      "center_mean": 292.1523742675781,
+      "center_max": 1200.0,
+      "center_sum": 264105.75
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K9ac",
+      "biosample_name": "heart",
+      "center_mean": 282.0528259277344,
+      "center_max": 6272.0,
+      "center_sum": 254975.75
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K4me1",
+      "biosample_name": "thymus",
+      "center_mean": 272.8616638183594,
+      "center_max": 2080.0,
+      "center_sum": 246666.9375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K27ac",
+      "biosample_name": "lung",
+      "center_mean": 271.74346923828125,
+      "center_max": 4736.0,
+      "center_sum": 245656.09375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K36me3",
+      "biosample_name": "lung",
+      "center_mean": 266.9226379394531,
+      "center_max": 1184.0,
+      "center_sum": 241298.0625
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K36me3",
+      "biosample_name": "brain",
+      "center_mean": 260.7413024902344,
+      "center_max": 992.0,
+      "center_sum": 235710.125
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K4me3",
+      "biosample_name": "spleen",
+      "center_mean": 233.63551330566406,
+      "center_max": 5984.0,
+      "center_sum": 211206.5
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K4me1",
+      "biosample_name": "spleen",
+      "center_mean": 232.5069122314453,
+      "center_max": 704.0,
+      "center_sum": 210186.25
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K27ac",
+      "biosample_name": "thymus",
+      "center_mean": 220.14041137695312,
+      "center_max": 6176.0,
+      "center_sum": 199006.9375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K27ac",
+      "biosample_name": "transverse colon",
+      "center_mean": 218.53042602539062,
+      "center_max": 4512.0,
+      "center_sum": 197551.5
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K27ac",
+      "biosample_name": "kidney",
+      "center_mean": 210.8370361328125,
+      "center_max": 4512.0,
+      "center_sum": 190596.6875
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K4me1",
+      "biosample_name": "lung",
+      "center_mean": 201.090087890625,
+      "center_max": 864.0,
+      "center_sum": 181785.4375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K27ac",
+      "biosample_name": "liver",
+      "center_mean": 194.0782012939453,
+      "center_max": 5504.0,
+      "center_sum": 175446.6875
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K4me3",
+      "biosample_name": "kidney",
+      "center_mean": 188.22434997558594,
+      "center_max": 4080.0,
+      "center_sum": 170154.8125
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K36me3",
+      "biosample_name": "liver",
+      "center_mean": 183.6355438232422,
+      "center_max": 920.0,
+      "center_sum": 166006.53125
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K9me3",
+      "biosample_name": "thymus",
+      "center_mean": 182.5972137451172,
+      "center_max": 438.0,
+      "center_sum": 165067.875
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K4me3",
+      "biosample_name": "transverse colon",
+      "center_mean": 182.3857879638672,
+      "center_max": 4016.0,
+      "center_sum": 164876.75
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K4me1",
+      "biosample_name": "heart",
+      "center_mean": 175.2371063232422,
+      "center_max": 1000.0,
+      "center_sum": 158414.34375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K36me3",
+      "biosample_name": "kidney",
+      "center_mean": 174.4364013671875,
+      "center_max": 752.0,
+      "center_sum": 157690.5
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K9ac",
+      "biosample_name": "kidney",
+      "center_mean": 174.09022521972656,
+      "center_max": 2288.0,
+      "center_sum": 157377.5625
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K4me1",
+      "biosample_name": "liver",
+      "center_mean": 169.4905242919922,
+      "center_max": 952.0,
+      "center_sum": 153219.4375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K4me3",
+      "biosample_name": "lung",
+      "center_mean": 165.48410034179688,
+      "center_max": 3408.0,
+      "center_sum": 149597.625
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K4me1",
+      "biosample_name": "brain",
+      "center_mean": 155.29714965820312,
+      "center_max": 688.0,
+      "center_sum": 140388.625
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002113 Histone ChIP-seq H3K4me1",
+      "biosample_name": "kidney",
+      "center_mean": 153.9042510986328,
+      "center_max": 600.0,
+      "center_sum": 139129.4375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K9ac",
+      "biosample_name": "lung",
+      "center_mean": 153.31954956054688,
+      "center_max": 2160.0,
+      "center_sum": 138600.875
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K4me1",
+      "biosample_name": "transverse colon",
+      "center_mean": 148.33946228027344,
+      "center_max": 438.0,
+      "center_sum": 134098.875
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K4me3",
+      "biosample_name": "liver",
+      "center_mean": 141.9532012939453,
+      "center_max": 3712.0,
+      "center_sum": 128325.6875
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K36me3",
+      "biosample_name": "transverse colon",
+      "center_mean": 139.81581115722656,
+      "center_max": 324.0,
+      "center_sum": 126393.5
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K9ac",
+      "biosample_name": "liver",
+      "center_mean": 123.42318725585938,
+      "center_max": 1824.0,
+      "center_sum": 111574.5625
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002370 Histone ChIP-seq H3K27me3",
+      "biosample_name": "thymus",
+      "center_mean": 114.08379364013672,
+      "center_max": 2208.0,
+      "center_sum": 103131.75
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K27me3",
+      "biosample_name": "brain",
+      "center_mean": 111.4001693725586,
+      "center_max": 1536.0,
+      "center_sum": 100705.75
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K4me3",
+      "biosample_name": "heart",
+      "center_mean": 101.72315979003906,
+      "center_max": 1608.0,
+      "center_sum": 91957.734375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K9me3",
+      "biosample_name": "lung",
+      "center_mean": 94.37562561035156,
+      "center_max": 270.0,
+      "center_sum": 85315.5625
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0001157 Histone ChIP-seq H3K27me3",
+      "biosample_name": "transverse colon",
+      "center_mean": 84.66966247558594,
+      "center_max": 362.0,
+      "center_sum": 76541.375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K27me3",
+      "biosample_name": "spleen",
+      "center_mean": 76.53111267089844,
+      "center_max": 796.0,
+      "center_sum": 69184.125
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000955 Histone ChIP-seq H3K9me3",
+      "biosample_name": "brain",
+      "center_mean": 58.61407470703125,
+      "center_max": 171.0,
+      "center_sum": 52987.125
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002048 Histone ChIP-seq H3K27me3",
+      "biosample_name": "lung",
+      "center_mean": 53.4610595703125,
+      "center_max": 944.0,
+      "center_sum": 48328.796875
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0000948 Histone ChIP-seq H3K27me3",
+      "biosample_name": "heart",
+      "center_mean": 46.80137634277344,
+      "center_max": 964.0,
+      "center_sum": 42308.4453125
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002106 Histone ChIP-seq H3K9me3",
+      "biosample_name": "spleen",
+      "center_mean": 41.12002182006836,
+      "center_max": 106.5,
+      "center_sum": 37172.5
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_HISTONE",
+      "track_name": "UBERON:0002107 Histone ChIP-seq H3K9me3",
+      "biosample_name": "liver",
+      "center_mean": 21.78572654724121,
+      "center_max": 118.0,
+      "center_sum": 19694.296875
+    }
+  ],
+  "DNMT1_chr19_CHIP_TF": [
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002106 TF ChIP-seq POLR2AphosphoS5",
+      "biosample_name": "spleen",
+      "center_mean": 320.4774475097656,
+      "center_max": 4224.0,
+      "center_sum": 289711.625
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq POLR2AphosphoS5",
+      "biosample_name": "transverse colon",
+      "center_mean": 156.63633728027344,
+      "center_max": 1520.0,
+      "center_sum": 141599.25
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq CTCF",
+      "biosample_name": "transverse colon",
+      "center_mean": 135.16690063476562,
+      "center_max": 3712.0,
+      "center_sum": 122190.875
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002106 TF ChIP-seq CTCF",
+      "biosample_name": "spleen",
+      "center_mean": 131.8527374267578,
+      "center_max": 4192.0,
+      "center_sum": 119194.875
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0000955 TF ChIP-seq CTCF",
+      "biosample_name": "brain",
+      "center_mean": 128.87196350097656,
+      "center_max": 3280.0,
+      "center_sum": 116500.25
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq POLR2A",
+      "biosample_name": "transverse colon",
+      "center_mean": 123.57550048828125,
+      "center_max": 1000.0,
+      "center_sum": 111712.25
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq SP1",
+      "biosample_name": "liver",
+      "center_mean": 113.52696228027344,
+      "center_max": 2176.0,
+      "center_sum": 102628.375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq CTCF",
+      "biosample_name": "liver",
+      "center_mean": 110.83600616455078,
+      "center_max": 4512.0,
+      "center_sum": 100195.75
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq YY1",
+      "biosample_name": "liver",
+      "center_mean": 104.78567504882812,
+      "center_max": 3184.0,
+      "center_sum": 94726.25
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002106 TF ChIP-seq POLR2A",
+      "biosample_name": "spleen",
+      "center_mean": 103.88744354248047,
+      "center_max": 342.0,
+      "center_sum": 93914.25
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq NR2F2",
+      "biosample_name": "liver",
+      "center_mean": 94.91551208496094,
+      "center_max": 436.0,
+      "center_sum": 85803.625
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0001157 TF ChIP-seq EP300",
+      "biosample_name": "transverse colon",
+      "center_mean": 93.27281188964844,
+      "center_max": 412.0,
+      "center_sum": 84318.625
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq FOXA1",
+      "biosample_name": "liver",
+      "center_mean": 89.6706314086914,
+      "center_max": 302.0,
+      "center_sum": 81062.25
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq REST",
+      "biosample_name": "liver",
+      "center_mean": 89.64256286621094,
+      "center_max": 436.0,
+      "center_sum": 81036.875
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq HNF4A",
+      "biosample_name": "liver",
+      "center_mean": 88.20817565917969,
+      "center_max": 1760.0,
+      "center_sum": 79740.1875
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq FOXA2",
+      "biosample_name": "liver",
+      "center_mean": 87.25221252441406,
+      "center_max": 400.0,
+      "center_sum": 78876.0
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq RXRA",
+      "biosample_name": "liver",
+      "center_mean": 86.38385009765625,
+      "center_max": 1216.0,
+      "center_sum": 78091.0
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq EGR1",
+      "biosample_name": "liver",
+      "center_mean": 86.36186218261719,
+      "center_max": 510.0,
+      "center_sum": 78071.125
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq GABPA",
+      "biosample_name": "liver",
+      "center_mean": 85.91329956054688,
+      "center_max": 640.0,
+      "center_sum": 77665.625
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq JUND",
+      "biosample_name": "liver",
+      "center_mean": 82.37873077392578,
+      "center_max": 390.0,
+      "center_sum": 74470.375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq HNF4G",
+      "biosample_name": "liver",
+      "center_mean": 82.35308074951172,
+      "center_max": 378.0,
+      "center_sum": 74447.1875
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq RAD21",
+      "biosample_name": "liver",
+      "center_mean": 78.19129943847656,
+      "center_max": 2112.0,
+      "center_sum": 70684.9375
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq MAX",
+      "biosample_name": "liver",
+      "center_mean": 77.36068725585938,
+      "center_max": 588.0,
+      "center_sum": 69934.0625
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq TAF1",
+      "biosample_name": "liver",
+      "center_mean": 75.11919403076172,
+      "center_max": 436.0,
+      "center_sum": 67907.75
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq ZBTB33",
+      "biosample_name": "liver",
+      "center_mean": 72.55268096923828,
+      "center_max": 636.0,
+      "center_sum": 65587.625
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "CHIP_TF",
+      "track_name": "UBERON:0002107 TF ChIP-seq ATF3",
+      "biosample_name": "liver",
+      "center_mean": 71.95872497558594,
+      "center_max": 328.0,
+      "center_sum": 65050.6875
+    }
+  ],
+  "DNMT1_chr19_SPLICE_SITES": [
+    {
+      "target": "DNMT1_chr19",
+      "modality": "SPLICE_SITES",
+      "track_name": "donor",
+      "biosample_name": "",
+      "center_mean": 0.0011234839912503958,
+      "center_max": 1.0,
+      "center_sum": 11.234840393066406
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "SPLICE_SITES",
+      "track_name": "acceptor",
+      "biosample_name": "",
+      "center_mean": 0.0010754395043477416,
+      "center_max": 1.0,
+      "center_sum": 10.754395484924316
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "SPLICE_SITES",
+      "track_name": "acceptor",
+      "biosample_name": "",
+      "center_mean": 7.922194527054671e-06,
+      "center_max": 0.02294921875,
+      "center_sum": 0.0792219489812851
+    },
+    {
+      "target": "DNMT1_chr19",
+      "modality": "SPLICE_SITES",
+      "track_name": "donor",
+      "biosample_name": "",
+      "center_mean": 4.143755177210551e-06,
+      "center_max": 0.01495361328125,
+      "center_sum": 0.041437551379203796
+    }
+  ]
+}
